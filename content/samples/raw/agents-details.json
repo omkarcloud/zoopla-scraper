@@ -1,0 +1,35 @@
+{
+  "branch_id": 73315,
+  "name": "/Sinclair Hammelton - Hayes",
+  "link": "https://www.zoopla.co.uk/find-agents/branch/sinclair-hammelton-hayes-hayes-73315/",
+  "address": "57 Station Approach, Hayes",
+  "postcode": "BR2 7EB",
+  "outcode": "BR2",
+  "latitude": 51.376397,
+  "longitude": 0.011508,
+  "phone": "020 8115 4722",
+  "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(684007).png",
+  "description": "When it comes to selling or letting your property, the staff at Sinclair Hammelton understand that no two clients are the same. Not everyone requires or indeed needs a high-profile marketing campaign, and so we listen carefully to each client's individual requirements. Some may want a wide-spread advertising campaign whilst others may prefer a more subtle approach, and this is where our extensive local knowledge comes into its own. \n\nWe have many years of experience working in the Bromley Borough and over time have built up an enviable network of contacts - people who, through the years, have bought and let through us. We can often achieve a sale or let through a series of well-placed, discreet telephone calls, so that the whole transaction remains as low profile as possible. We advertise on all the major property internet portals, including Zoopla. You will find our adverts in all the main local newspapers, and we also advertise in national newspapers and quality lifestyle magazines where appropriate. \n\nOur distinctive offices, which are open seven days a week, are well located in prominent High Street locations at Bromley, Hayes and Petts Wood, which are bright, well lit window displays ensuring a continuous flow of customers. Our property details contain meticulous descriptions and floor plans, and are illustrated with professionally taken photographs to ensure each property benefits from the highest presentation standards.",
+  "social_links": null,
+  "opening_times": null,
+  "memberships": [
+    {
+      "name": "The Property Ombudsman",
+      "link": "https://www.zoopla.co.uk/tips/agent-affiliation-tpo/"
+    }
+  ],
+  "listings_statistics": {
+    "residential": {
+      "for_sale": {
+        "available_listings": 29,
+        "average_asking_price": 911517,
+        "average_weeks_on_market": 18
+      },
+      "to_rent": null
+    },
+    "commercial": {
+      "for_sale": null,
+      "to_rent": null
+    }
+  }
+}

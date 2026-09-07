@@ -1,0 +1,1682 @@
+{
+  "count": 50000,
+  "per_page": 25,
+  "current_page": 1,
+  "total_pages": 40,
+  "next": "https://zoopla-scraper.p.rapidapi.com/zoopla/properties/search-sale?location=London&page=2",
+  "previous": null,
+  "search": {
+    "section": "for-sale",
+    "location": "London",
+    "area_name": "London",
+    "link": "https://www.zoopla.co.uk/for-sale/property/london/"
+  },
+  "results": [
+    {
+      "id": "74153976",
+      "title": "4 bed semi-detached house for sale",
+      "address": "Woodmansterne Lane, Wallington SM6",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74153976/",
+      "summary": "New Build 4 Bedroom Houses for Sale in Wallington, SM6 Coming soon: An exclusive collection of four new build 4-bedroom houses for sale in ...",
+      "property_type": "semi_detached",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1359,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 750000,
+        "currency": "GBP",
+        "label": "£750,000",
+        "short_label": "£750k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-05",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/6a8c387bd5caf481e06cb261a8b4b44e820e9c27.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/040b8def900a3c91bc5e74240e6b57d5838957cd.jpg",
+          "https://lid.zoocdn.com/645/430/64447b7e34f1142f2ec9451702d10a620d1d241c.jpg",
+          "https://lid.zoocdn.com/645/430/0d01b10fb5b8839290054fd9a87cee29db6e208e.jpg",
+          "https://lid.zoocdn.com/645/430/fd5e8d186d924368a9ed906cab85448febb0e3e7.jpg",
+          "https://lid.zoocdn.com/645/430/fd1281566f00782ab18765c9f29376c0c226bec2.jpg",
+          "https://lid.zoocdn.com/645/430/be2d39bb5b5966cb2f46870916dcf46d56ef3f33.jpg",
+          "https://lid.zoocdn.com/645/430/cd9a17dd23fa2dca13b829c6174ea950e99d322c.jpg",
+          "https://lid.zoocdn.com/645/430/0086fc42a379d455adc5cfc67e29fc14108b17a8.jpg",
+          "https://lid.zoocdn.com/645/430/e580d574cae9a1ca21ee89d4661f7aa0d9cdc436.jpg",
+          "https://lid.zoocdn.com/645/430/fac36c5cd7808fb9ba78ccb79fa8bc69a25219f2.jpg",
+          "https://lid.zoocdn.com/645/430/f060c1aa48b368e73f2aebc35857c5d6c297cb12.jpg"
+        ],
+        "image_count": 12,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 166891,
+        "name": "Dion Homes - Wallington",
+        "phone": "020 4645 3665",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(741307).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/dion-homes-wallington-london-166891/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74153966",
+      "title": "4 bed semi-detached house for sale",
+      "address": "Woodmansterne Lane, Wallington SM6",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74153966/",
+      "summary": "New Build 4 Bedroom Houses for Sale in Wallington, SM6 Coming soon: An exclusive collection of four new build 4-bedroom houses for sale in ...",
+      "property_type": "semi_detached",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1359,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 750000,
+        "currency": "GBP",
+        "label": "£750,000",
+        "short_label": "£750k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-05",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/6a8c387bd5caf481e06cb261a8b4b44e820e9c27.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/60b11adbf56371f94c30048ba7cd9305bd9f9c96.jpg",
+          "https://lid.zoocdn.com/645/430/fd5e8d186d924368a9ed906cab85448febb0e3e7.jpg",
+          "https://lid.zoocdn.com/645/430/f060c1aa48b368e73f2aebc35857c5d6c297cb12.jpg",
+          "https://lid.zoocdn.com/645/430/8b60b0e949fd693ad8090597cc649cacda08f748.jpg",
+          "https://lid.zoocdn.com/645/430/ac2758c188fcbedd1288ba92eeb779f65cef0c1b.jpg",
+          "https://lid.zoocdn.com/645/430/454b6380ec42e7b088b2e01ad2ba23eaf9127e82.jpg",
+          "https://lid.zoocdn.com/645/430/97f703f51a1013f25f0355e950452f910d1a54c1.jpg",
+          "https://lid.zoocdn.com/645/430/29987e994f21a796d9b13fcbaf5d007740b01de4.jpg",
+          "https://lid.zoocdn.com/645/430/0086fc42a379d455adc5cfc67e29fc14108b17a8.jpg",
+          "https://lid.zoocdn.com/645/430/e580d574cae9a1ca21ee89d4661f7aa0d9cdc436.jpg"
+        ],
+        "image_count": 11,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 166891,
+        "name": "Dion Homes - Wallington",
+        "phone": "020 4645 3665",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(741307).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/dion-homes-wallington-london-166891/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74153943",
+      "title": "4 bed terraced house for sale",
+      "address": "Rowan Road, Streatham SW16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74153943/",
+      "summary": "Discover Byards Croft, Streatham - Limited-time incentive available - choose either a deposit contribution or stamp duty contribution. Get in ...",
+      "property_type": "terraced",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1305,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 750000,
+        "currency": "GBP",
+        "label": "£750,000",
+        "short_label": "£750k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-05",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/38698c44d33180629781ca8cd69bbd1d5afa10d6.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/f0001fb04528048194ea34da711309ab5acc61dd.png",
+          "https://lid.zoocdn.com/645/430/6a8c387bd5caf481e06cb261a8b4b44e820e9c27.jpg",
+          "https://lid.zoocdn.com/645/430/fd5e8d186d924368a9ed906cab85448febb0e3e7.jpg",
+          "https://lid.zoocdn.com/645/430/cd9a17dd23fa2dca13b829c6174ea950e99d322c.jpg",
+          "https://lid.zoocdn.com/645/430/0086fc42a379d455adc5cfc67e29fc14108b17a8.jpg",
+          "https://lid.zoocdn.com/645/430/e580d574cae9a1ca21ee89d4661f7aa0d9cdc436.jpg",
+          "https://lid.zoocdn.com/645/430/ac2758c188fcbedd1288ba92eeb779f65cef0c1b.jpg",
+          "https://lid.zoocdn.com/645/430/b32101b3b868615d82b51ec2e4d37720b3c02d51.jpg",
+          "https://lid.zoocdn.com/645/430/d5c96d048dbc403d837ac2703ab9906de2d9576f.jpg",
+          "https://lid.zoocdn.com/645/430/650b6641cb6dd5ddf9f008f8004fdcc67c1f74fb.jpg",
+          "https://lid.zoocdn.com/645/430/2912432ad971ebe125ab57eaa35c8cd1e1b75f3e.jpg",
+          "https://lid.zoocdn.com/645/430/08b6e4b30206c26463b620461e163877c711ad65.jpg",
+          "https://lid.zoocdn.com/645/430/bbcfc4f0f876d3aee30f772c5fd5b94e7b62651f.png",
+          "https://lid.zoocdn.com/645/430/26d7dab1e797c9ac5d2c95abb166b75455e99e30.png"
+        ],
+        "image_count": 15,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 164833,
+        "name": "Dion Bycroft",
+        "phone": "020 8128 9554",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(741307).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/dion-bycroft-london-164833/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74153108",
+      "title": "2 bed flat for sale",
+      "address": "Varcoe Rd, London SE16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74153108/",
+      "summary": "Register your interest today. About Varcoe Corner Varcoe Corner - Now Launching! Join us at the Varcoe Corner Launch Event on Saturday 26th ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 109375,
+        "currency": "GBP",
+        "label": "£109,375",
+        "short_label": "£109k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-05",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Shared ownership"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/31d440719c35b2a5604632f96835893e3ea74908.jpg",
+        "main_image_caption": "Plot Image",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/cd54283ad9b6c80b7687dc2ff2d36a731c3755da.jpg",
+          "https://lid.zoocdn.com/645/430/1031251f3d1d116b81e5b0215a66ca3588530f89.jpg",
+          "https://lid.zoocdn.com/645/430/83efc1ade13e998411f8cdfd2c6a878f51283111.jpg",
+          "https://lid.zoocdn.com/645/430/0ac148b35e27c7b54122a4eaf9161123e5c64a50.jpg",
+          "https://lid.zoocdn.com/645/430/b9cd98c652675204c3cf5e6ad16ce2daa02f5378.jpg",
+          "https://lid.zoocdn.com/645/430/218efc691f05dfa5daff9ae4ee6b33d2eca5d6e4.jpg",
+          "https://lid.zoocdn.com/645/430/4f4de056a0612fbd695b8f5bbdd6a2eb8ed4f79f.jpg",
+          "https://lid.zoocdn.com/645/430/bc937f0ee920ad302b5305ab4a7249211eafb95d.jpg",
+          "https://lid.zoocdn.com/645/430/744f8a083705f2f72e1b7f10d5bc3a3b8fcf9847.jpg",
+          "https://lid.zoocdn.com/645/430/b92edde76055229a45217423b85e302dd924cdb9.jpg",
+          "https://lid.zoocdn.com/645/430/97da3576da88810b441e35af5e724e0cfd9a574c.jpg",
+          "https://lid.zoocdn.com/645/430/b5121507ec8625ed28cd8a94955a627962a0f1d6.jpg",
+          "https://lid.zoocdn.com/645/430/64fbeb273fa3e43dfcb8ed5f68b8f84b09d9b8f0.jpg",
+          "https://lid.zoocdn.com/645/430/c012bfe4a771375cd469ce48af07d83a971feffa.jpg",
+          "https://lid.zoocdn.com/645/430/ec488dd3d3c74f61b294fa25c2a08526178c767a.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 167993,
+        "name": "Southern Housing New Homes - Varcoe Corner (Shared Ownership)",
+        "phone": "020 4645 8115",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(747263).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/southern-housing-new-homes-varcoe-corner-shared-ownership-london-167993/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74151210",
+      "title": "1 bed flat for sale",
+      "address": "The Fairway, Harrow HA0",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74151210/",
+      "summary": "Be one of the first to live at Northwick Parkside! Now 60% sold at Cobalt Place, the first phase in this new, thriving neighbourhood. Now ready to ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 543,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 385000,
+        "currency": "GBP",
+        "label": "£385,000",
+        "short_label": "£385k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Leasehold"
+      ],
+      "highlights": [
+        {
+          "description": null,
+          "label": "Deposit contribution"
+        },
+        {
+          "description": null,
+          "label": "Shared Ownership"
+        }
+      ],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/fee297b896e9181505ef6a1e07844c96a13f6631.jpg",
+        "main_image_caption": "Northwick Parkside Show Apartment",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/1be5d9152d4314d246a7de37e7a4a912ac9db500.jpg",
+          "https://lid.zoocdn.com/645/430/eb0132dd97ccba8ba848652d765385cc140ff1f5.jpg",
+          "https://lid.zoocdn.com/645/430/d62faf644432b733e5c2019c55364a7b522d8abc.jpg",
+          "https://lid.zoocdn.com/645/430/50675c8d1869ee30ec709a144ab57073ae7d15c1.jpg",
+          "https://lid.zoocdn.com/645/430/10b2f17e953e34115e03ef77654d24dc2c4c0753.jpg",
+          "https://lid.zoocdn.com/645/430/11c523d5980bbd8176dda88709471efa4407601c.jpg",
+          "https://lid.zoocdn.com/645/430/ba16312f66a03785971637710ecec9c7fda3502e.jpg",
+          "https://lid.zoocdn.com/645/430/25cae061a316e4e95fbd0ef0bc88ea3f96e2e81f.jpg",
+          "https://lid.zoocdn.com/645/430/b6bc325a5f25c2b332e39c2818d69ea6c96f7036.jpg",
+          "https://lid.zoocdn.com/645/430/02824acfc45e5a7ff167535ba067bfa758466007.jpg",
+          "https://lid.zoocdn.com/645/430/4f35c3f53a03955939b2ef22f2b5595827c8d722.jpg",
+          "https://lid.zoocdn.com/645/430/d44083354a3f5447e5ca4153828926fb95c9ca9b.jpg",
+          "https://lid.zoocdn.com/645/430/8ba8044a10e5fa47f4aefae51884a81ee5bdd5cc.jpg",
+          "https://lid.zoocdn.com/645/430/2937e520b66268a5bf15468dc75451d1f99114f3.jpg",
+          "https://lid.zoocdn.com/645/430/4ed2f68badda9f3211f9b652cfee27c36b106f39.jpg",
+          "https://lid.zoocdn.com/645/430/649f9de993cf3d14054b7229f365e0655523b781.jpg"
+        ],
+        "image_count": 17,
+        "floor_plan_count": 1,
+        "video_count": 2
+      },
+      "agent": {
+        "branch_id": 163271,
+        "name": "Sovereign Network Group - Northwick Parkside",
+        "phone": "020 4586 7820",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(752318).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/sovereign-network-group-northwick-parkside-harrow-163271/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74150317",
+      "title": "3 bed detached house for sale",
+      "address": "The Chapman Collection, London SE9",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74150317/",
+      "summary": "** show home now ready to view ** A beautifully crafted mid-terrace home, combining three floors of considered living space with a private ...",
+      "property_type": "detached",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1184,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 695000,
+        "currency": "GBP",
+        "label": "£695,000",
+        "short_label": "£695k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/063495c94575f7bf73ae0f07c50050b7828c118f.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/a1f6a95df3b1592f5f4ca06c0f97533418faeebe.jpg",
+          "https://lid.zoocdn.com/645/430/1f1905bb3a4fd81bc26037faed9005d37475c47b.jpg",
+          "https://lid.zoocdn.com/645/430/336f29834c7a9920a2fbfe210fcde02b54d7b0a1.jpg",
+          "https://lid.zoocdn.com/645/430/4c734d019729924cf3ae6940f00cb0dac761555f.jpg",
+          "https://lid.zoocdn.com/645/430/01d34c3f6c57b3ba3ef786260d6800cffd262ec6.jpg",
+          "https://lid.zoocdn.com/645/430/6f3be70e939f6620082f87c0cdb803e9d47a1849.jpg",
+          "https://lid.zoocdn.com/645/430/34472d79c3026b1a205e45d36eb283e981bd5b72.jpg",
+          "https://lid.zoocdn.com/645/430/b80ec9bca906f91112cd8a0c9db6a879915b7a17.jpg",
+          "https://lid.zoocdn.com/645/430/02e3687d1dd49c12e2b8e9e300a37422ec8ac10e.jpg",
+          "https://lid.zoocdn.com/645/430/f70aeaf975cb75a6af17a840f25a3c33b4d6c815.jpg",
+          "https://lid.zoocdn.com/645/430/7348a6b79068f7a6678e2fa21ec432a92c9aaeac.jpg",
+          "https://lid.zoocdn.com/645/430/1ec7252c0499b1f92c8468b47c8fc4935ee14f03.jpg",
+          "https://lid.zoocdn.com/645/430/a9d4b385dc325a6ea0199523bf503ee459f0bb31.jpg",
+          "https://lid.zoocdn.com/645/430/b7d34e64270a6f94316ecb32f6f1d99ffd426892.jpg",
+          "https://lid.zoocdn.com/645/430/5d9b0a9eb9183eab3657151c24500db1524b12bf.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 16196,
+        "name": "Hamptons - London New Homes",
+        "phone": "020 3463 9984",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/hamptons-london-new-homes-london-16196/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74150051",
+      "title": "3 bed detached house for sale",
+      "address": "The Chapman Collection, London SE9",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74150051/",
+      "summary": "** show home now ready to view ** An elegant end-of-terrace home occupying a generous corner position of The Chapman Collection, offering ...",
+      "property_type": "detached",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1184,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 725000,
+        "currency": "GBP",
+        "label": "£725,000",
+        "short_label": "£725k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/336f29834c7a9920a2fbfe210fcde02b54d7b0a1.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/def80a45f36397eef1677c4fc5cd902b9d1e6c39.jpg",
+          "https://lid.zoocdn.com/645/430/2913042295f02eac3313501063f0a748b9a2bfe2.jpg",
+          "https://lid.zoocdn.com/645/430/a67d4e570dbd83fba4b0527399f277e4ff66c819.jpg",
+          "https://lid.zoocdn.com/645/430/4c734d019729924cf3ae6940f00cb0dac761555f.jpg",
+          "https://lid.zoocdn.com/645/430/3f5fe3a38252c1f5f27c9209bd078d50c68b8b8e.jpg",
+          "https://lid.zoocdn.com/645/430/f70aeaf975cb75a6af17a840f25a3c33b4d6c815.jpg",
+          "https://lid.zoocdn.com/645/430/a9d4b385dc325a6ea0199523bf503ee459f0bb31.jpg",
+          "https://lid.zoocdn.com/645/430/b7d34e64270a6f94316ecb32f6f1d99ffd426892.jpg",
+          "https://lid.zoocdn.com/645/430/5d9b0a9eb9183eab3657151c24500db1524b12bf.jpg",
+          "https://lid.zoocdn.com/645/430/02e3687d1dd49c12e2b8e9e300a37422ec8ac10e.jpg",
+          "https://lid.zoocdn.com/645/430/be18a6ee2e2bcb85b64ed3f156b05c97b6679d1d.jpg",
+          "https://lid.zoocdn.com/645/430/b80ec9bca906f91112cd8a0c9db6a879915b7a17.jpg",
+          "https://lid.zoocdn.com/645/430/900afa173b7642dd95e42e8f3dd96064e292a541.jpg"
+        ],
+        "image_count": 14,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 16196,
+        "name": "Hamptons - London New Homes",
+        "phone": "020 3463 9984",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(707660).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/hamptons-london-new-homes-london-16196/"
+      },
+      "transports": []
+    },
+    {
+      "id": "69679154",
+      "title": "1 bed flat for sale",
+      "address": "Palmer Road, London SW11",
+      "link": "https://www.zoopla.co.uk/new-homes/details/69679154/",
+      "summary": "A luxurious one bedroom apartment in the prestigious Prince of Wales Drive development.",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 646,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 600000,
+        "currency": "GBP",
+        "label": "£600,000",
+        "short_label": "£600k",
+        "qualifier": "Guide price",
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Leasehold"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/3e27d43f47c61c2ae2ea6f955def2ed210b67a32.jpg",
+        "main_image_caption": "Dining Area",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/e3f31d388a99343e590bf291d9a2196d6434718b.jpg",
+          "https://lid.zoocdn.com/645/430/7ccd71f1feaf3238ab8212503f6bfea5a0fd6580.jpg",
+          "https://lid.zoocdn.com/645/430/d24c0a92659d81eacf561613c947ff825aa4cb24.jpg",
+          "https://lid.zoocdn.com/645/430/dc0cfd03987582ef25a252a8f4d33f802d5838cf.jpg",
+          "https://lid.zoocdn.com/645/430/ffa342db9bd9e679b7a9881481803e4ebe52da54.jpg",
+          "https://lid.zoocdn.com/645/430/19ab4add7d60c89d510081985f5cb11269ff731a.jpg",
+          "https://lid.zoocdn.com/645/430/59a1ebf8870896561e945d7d8990111f7fc239ab.jpg",
+          "https://lid.zoocdn.com/645/430/e448008b6d700bd8266823fd3042fefe4542e0eb.jpg",
+          "https://lid.zoocdn.com/645/430/5b549c40ec29f977d6017ad2101dab3d1725b4b1.jpg",
+          "https://lid.zoocdn.com/645/430/5f4a58d888eb11554fe2353d8ea3b244cee94c2e.jpg",
+          "https://lid.zoocdn.com/645/430/8fc35d9b35868c479c0777bd0fed48aa1754e4e6.jpg"
+        ],
+        "image_count": 12,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 57255,
+        "name": "Savills - Battersea Park",
+        "phone": "020 8022 3403",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/savills-battersea-park-london-57255/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74147702",
+      "title": "2 bed flat for sale",
+      "address": "Banks Road, Kidbrooke SE3",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74147702/",
+      "summary": "A 2 bed apartment with a balcony and generous storage!",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 686,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 118750,
+        "currency": "GBP",
+        "label": "£118,750",
+        "short_label": "£119k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Leasehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/589b9d2cd0ea684ea0888633a6e28ec7dc6c4d50.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/03d0df866a40c341f02f22524b0e1a27ef8aeced.jpg",
+          "https://lid.zoocdn.com/645/430/581e591f80930816d4fd4800778c48c2bb0852ca.jpg",
+          "https://lid.zoocdn.com/645/430/e7940687e3e7677622d7fd70724e22545749c747.jpg",
+          "https://lid.zoocdn.com/645/430/3a59206ca467c15d22f7ba7a8b204482a082f215.jpg",
+          "https://lid.zoocdn.com/645/430/a8f3d6c80819ed2edbee836dc18fed57414153f4.jpg",
+          "https://lid.zoocdn.com/645/430/a4f070339b3344919321e7c1468124c79f233ecb.jpg",
+          "https://lid.zoocdn.com/645/430/6b1243c2127f5916ae213938994231a886f1a37b.jpg",
+          "https://lid.zoocdn.com/645/430/450388c68e0030d2b0079726e15e662f9ded8daf.jpg",
+          "https://lid.zoocdn.com/645/430/3765e0e937226715056a90249aa08fbfad697607.jpg",
+          "https://lid.zoocdn.com/645/430/81c68d7b14f05ec41993f5ef2ec85fd4fc065317.jpg"
+        ],
+        "image_count": 11,
+        "floor_plan_count": 1,
+        "video_count": 1
+      },
+      "agent": {
+        "branch_id": 163860,
+        "name": "Hyde New Homes - Kidbrooke Village",
+        "phone": "020 4633 0461",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(443865).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/hyde-new-homes-kidbrooke-village-london-163860/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74147530",
+      "title": "2 bed flat for sale",
+      "address": "Banks Road, Kidbrooke SE3",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74147530/",
+      "summary": "A 2 bed apartment with a balcony and generous storage!",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 686,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 475000,
+        "currency": "GBP",
+        "label": "£475,000",
+        "short_label": "£475k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Leasehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/03d0df866a40c341f02f22524b0e1a27ef8aeced.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/581e591f80930816d4fd4800778c48c2bb0852ca.jpg",
+          "https://lid.zoocdn.com/645/430/e7940687e3e7677622d7fd70724e22545749c747.jpg",
+          "https://lid.zoocdn.com/645/430/589b9d2cd0ea684ea0888633a6e28ec7dc6c4d50.jpg",
+          "https://lid.zoocdn.com/645/430/3a59206ca467c15d22f7ba7a8b204482a082f215.jpg",
+          "https://lid.zoocdn.com/645/430/a8f3d6c80819ed2edbee836dc18fed57414153f4.jpg",
+          "https://lid.zoocdn.com/645/430/a4f070339b3344919321e7c1468124c79f233ecb.jpg",
+          "https://lid.zoocdn.com/645/430/6b1243c2127f5916ae213938994231a886f1a37b.jpg",
+          "https://lid.zoocdn.com/645/430/450388c68e0030d2b0079726e15e662f9ded8daf.jpg",
+          "https://lid.zoocdn.com/645/430/3765e0e937226715056a90249aa08fbfad697607.jpg",
+          "https://lid.zoocdn.com/645/430/81c68d7b14f05ec41993f5ef2ec85fd4fc065317.jpg"
+        ],
+        "image_count": 11,
+        "floor_plan_count": 1,
+        "video_count": 1
+      },
+      "agent": {
+        "branch_id": 163860,
+        "name": "Hyde New Homes - Kidbrooke Village",
+        "phone": "020 4633 0461",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(443865).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/hyde-new-homes-kidbrooke-village-london-163860/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74146711",
+      "title": "1 bed flat for sale",
+      "address": "Banks Road, Kidbrooke SE3",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74146711/",
+      "summary": "A 1 bed apartment with a balcony! Ready to move into now!",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 563,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 110250,
+        "currency": "GBP",
+        "label": "£110,250",
+        "short_label": "£110k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Leasehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/2552c91d670309125f8b6686a929b80d96a7f16b.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/6e3bfa40435e374a7cb2efff4db2be3cc93e23e8.jpg",
+          "https://lid.zoocdn.com/645/430/e01252bed1cedbb0c6f185a05654773ebb184d98.jpg",
+          "https://lid.zoocdn.com/645/430/b681454ff74fad4398178485087851085c48375e.jpg",
+          "https://lid.zoocdn.com/645/430/3765e0e937226715056a90249aa08fbfad697607.jpg",
+          "https://lid.zoocdn.com/645/430/a4f070339b3344919321e7c1468124c79f233ecb.jpg",
+          "https://lid.zoocdn.com/645/430/6b1243c2127f5916ae213938994231a886f1a37b.jpg",
+          "https://lid.zoocdn.com/645/430/450388c68e0030d2b0079726e15e662f9ded8daf.jpg",
+          "https://lid.zoocdn.com/645/430/81c68d7b14f05ec41993f5ef2ec85fd4fc065317.jpg",
+          "https://lid.zoocdn.com/645/430/c7577e00ed6cf2a7d0407c55a42f54661b0b3606.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 163860,
+        "name": "Hyde New Homes - Kidbrooke Village",
+        "phone": "020 4633 0461",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(443865).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/hyde-new-homes-kidbrooke-village-london-163860/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74146232",
+      "title": "1 bed flat for sale",
+      "address": "Banks Road, Kidbrooke SE3",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74146232/",
+      "summary": "A 1 bed apartment with a balcony! Ready to move into now!",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 563,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 367500,
+        "currency": "GBP",
+        "label": "£367,500",
+        "short_label": "£368k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Leasehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/6e3bfa40435e374a7cb2efff4db2be3cc93e23e8.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/2552c91d670309125f8b6686a929b80d96a7f16b.jpg",
+          "https://lid.zoocdn.com/645/430/e01252bed1cedbb0c6f185a05654773ebb184d98.jpg",
+          "https://lid.zoocdn.com/645/430/b681454ff74fad4398178485087851085c48375e.jpg",
+          "https://lid.zoocdn.com/645/430/3765e0e937226715056a90249aa08fbfad697607.jpg",
+          "https://lid.zoocdn.com/645/430/a4f070339b3344919321e7c1468124c79f233ecb.jpg",
+          "https://lid.zoocdn.com/645/430/6b1243c2127f5916ae213938994231a886f1a37b.jpg",
+          "https://lid.zoocdn.com/645/430/450388c68e0030d2b0079726e15e662f9ded8daf.jpg",
+          "https://lid.zoocdn.com/645/430/81c68d7b14f05ec41993f5ef2ec85fd4fc065317.jpg",
+          "https://lid.zoocdn.com/645/430/c7577e00ed6cf2a7d0407c55a42f54661b0b3606.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 163860,
+        "name": "Hyde New Homes - Kidbrooke Village",
+        "phone": "020 4633 0461",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(443865).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/hyde-new-homes-kidbrooke-village-london-163860/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74143882",
+      "title": "3 bed flat for sale",
+      "address": "Wynnstay Gardens, Allen Street, London W8",
+      "link": "https://www.zoopla.co.uk/for-sale/details/74143882/",
+      "summary": "A 3rd floor three double bedroom apartment with inter-connecting reception and dining rooms and a bright east / west aspect.",
+      "property_type": "flat",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "receptions": 2,
+      "floor_area": {
+        "size_sqft": 1888,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 3000000,
+        "currency": "GBP",
+        "label": "£3,000,000",
+        "short_label": "£3m",
+        "qualifier": "Guide price",
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "Share of Freehold"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/4f82905c99cee2e0ddb7b0efec18191fa77b13e8.jpg",
+        "main_image_caption": "Reception Room",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/b43bbddf787852e62c4e1d2f4010bab98629de4d.jpg",
+          "https://lid.zoocdn.com/645/430/5410398116c2613afeb83ebe5bca702e9a526a54.jpg",
+          "https://lid.zoocdn.com/645/430/e91dde57188f5932718f6d79ef8e88b29bbe016e.jpg",
+          "https://lid.zoocdn.com/645/430/fcfa68e2b8450ce3320cfc623e4a280c4befb677.jpg",
+          "https://lid.zoocdn.com/645/430/d501c431060a1be9b5269247257ab5f6ee4f8827.jpg",
+          "https://lid.zoocdn.com/645/430/42e7d43450f747d48848d331352b4319c69db3ad.jpg",
+          "https://lid.zoocdn.com/645/430/a0b62daebf3029ec0b941b86fd92d4a438545b23.jpg",
+          "https://lid.zoocdn.com/645/430/3a06d7fc2518e6b2dab9d9cf21dee7f95032e648.jpg",
+          "https://lid.zoocdn.com/645/430/4d395f6deb7c6f15205a70d12d0610cb4a7dc8ab.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 57254,
+        "name": "Savills - Kensington",
+        "phone": "020 8022 3223",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(648969).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/savills-kensington-london-57254/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74140957",
+      "title": "1 bed flat for sale",
+      "address": "Varcoe Rd, London SE16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74140957/",
+      "summary": "Register your interest today. About Varcoe Corner Varcoe Corner - Now Launching! Join us at the Varcoe Corner Launch Event on Saturday 26th ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 91250,
+        "currency": "GBP",
+        "label": "£91,250",
+        "short_label": "£91.25k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/cd54283ad9b6c80b7687dc2ff2d36a731c3755da.jpg",
+        "main_image_caption": "Plot Image",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/31d440719c35b2a5604632f96835893e3ea74908.jpg",
+          "https://lid.zoocdn.com/645/430/1031251f3d1d116b81e5b0215a66ca3588530f89.jpg",
+          "https://lid.zoocdn.com/645/430/83efc1ade13e998411f8cdfd2c6a878f51283111.jpg",
+          "https://lid.zoocdn.com/645/430/bc937f0ee920ad302b5305ab4a7249211eafb95d.jpg",
+          "https://lid.zoocdn.com/645/430/4f4de056a0612fbd695b8f5bbdd6a2eb8ed4f79f.jpg",
+          "https://lid.zoocdn.com/645/430/b9cd98c652675204c3cf5e6ad16ce2daa02f5378.jpg",
+          "https://lid.zoocdn.com/645/430/b92edde76055229a45217423b85e302dd924cdb9.jpg",
+          "https://lid.zoocdn.com/645/430/744f8a083705f2f72e1b7f10d5bc3a3b8fcf9847.jpg",
+          "https://lid.zoocdn.com/645/430/97da3576da88810b441e35af5e724e0cfd9a574c.jpg",
+          "https://lid.zoocdn.com/645/430/0ac148b35e27c7b54122a4eaf9161123e5c64a50.jpg",
+          "https://lid.zoocdn.com/645/430/218efc691f05dfa5daff9ae4ee6b33d2eca5d6e4.jpg",
+          "https://lid.zoocdn.com/645/430/b5121507ec8625ed28cd8a94955a627962a0f1d6.jpg",
+          "https://lid.zoocdn.com/645/430/64fbeb273fa3e43dfcb8ed5f68b8f84b09d9b8f0.jpg",
+          "https://lid.zoocdn.com/645/430/c012bfe4a771375cd469ce48af07d83a971feffa.jpg",
+          "https://lid.zoocdn.com/645/430/ec488dd3d3c74f61b294fa25c2a08526178c767a.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 167993,
+        "name": "Southern Housing New Homes - Varcoe Corner (Shared Ownership)",
+        "phone": "020 4645 8115",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(747263).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/southern-housing-new-homes-varcoe-corner-shared-ownership-london-167993/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74140959",
+      "title": "1 bed flat for sale",
+      "address": "Varcoe Rd, London SE16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74140959/",
+      "summary": "Register your interest today. About Varcoe Corner Varcoe Corner - Now Launching! Join us at the Varcoe Corner Launch Event on Saturday 26th ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 93250,
+        "currency": "GBP",
+        "label": "£93,250",
+        "short_label": "£93.25k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/83efc1ade13e998411f8cdfd2c6a878f51283111.jpg",
+        "main_image_caption": "Plot Image",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/744f8a083705f2f72e1b7f10d5bc3a3b8fcf9847.jpg",
+          "https://lid.zoocdn.com/645/430/218efc691f05dfa5daff9ae4ee6b33d2eca5d6e4.jpg",
+          "https://lid.zoocdn.com/645/430/bc937f0ee920ad302b5305ab4a7249211eafb95d.jpg",
+          "https://lid.zoocdn.com/645/430/b9cd98c652675204c3cf5e6ad16ce2daa02f5378.jpg",
+          "https://lid.zoocdn.com/645/430/4f4de056a0612fbd695b8f5bbdd6a2eb8ed4f79f.jpg",
+          "https://lid.zoocdn.com/645/430/31d440719c35b2a5604632f96835893e3ea74908.jpg",
+          "https://lid.zoocdn.com/645/430/1031251f3d1d116b81e5b0215a66ca3588530f89.jpg",
+          "https://lid.zoocdn.com/645/430/cd54283ad9b6c80b7687dc2ff2d36a731c3755da.jpg",
+          "https://lid.zoocdn.com/645/430/0ac148b35e27c7b54122a4eaf9161123e5c64a50.jpg",
+          "https://lid.zoocdn.com/645/430/b92edde76055229a45217423b85e302dd924cdb9.jpg",
+          "https://lid.zoocdn.com/645/430/97da3576da88810b441e35af5e724e0cfd9a574c.jpg",
+          "https://lid.zoocdn.com/645/430/b5121507ec8625ed28cd8a94955a627962a0f1d6.jpg",
+          "https://lid.zoocdn.com/645/430/64fbeb273fa3e43dfcb8ed5f68b8f84b09d9b8f0.jpg",
+          "https://lid.zoocdn.com/645/430/c012bfe4a771375cd469ce48af07d83a971feffa.jpg",
+          "https://lid.zoocdn.com/645/430/ec488dd3d3c74f61b294fa25c2a08526178c767a.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 167993,
+        "name": "Southern Housing New Homes - Varcoe Corner (Shared Ownership)",
+        "phone": "020 4645 8115",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(747263).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/southern-housing-new-homes-varcoe-corner-shared-ownership-london-167993/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74140960",
+      "title": "1 bed flat for sale",
+      "address": "Varcoe Rd, London SE16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74140960/",
+      "summary": "Register your interest today. About Varcoe Corner Varcoe Corner - Now Launching! Join us at the Varcoe Corner Launch Event on Saturday 26th ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 95250,
+        "currency": "GBP",
+        "label": "£95,250",
+        "short_label": "£95.25k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/0ac148b35e27c7b54122a4eaf9161123e5c64a50.jpg",
+        "main_image_caption": "Plot Image",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/cd54283ad9b6c80b7687dc2ff2d36a731c3755da.jpg",
+          "https://lid.zoocdn.com/645/430/744f8a083705f2f72e1b7f10d5bc3a3b8fcf9847.jpg",
+          "https://lid.zoocdn.com/645/430/b9cd98c652675204c3cf5e6ad16ce2daa02f5378.jpg",
+          "https://lid.zoocdn.com/645/430/bc937f0ee920ad302b5305ab4a7249211eafb95d.jpg",
+          "https://lid.zoocdn.com/645/430/83efc1ade13e998411f8cdfd2c6a878f51283111.jpg",
+          "https://lid.zoocdn.com/645/430/4f4de056a0612fbd695b8f5bbdd6a2eb8ed4f79f.jpg",
+          "https://lid.zoocdn.com/645/430/31d440719c35b2a5604632f96835893e3ea74908.jpg",
+          "https://lid.zoocdn.com/645/430/218efc691f05dfa5daff9ae4ee6b33d2eca5d6e4.jpg",
+          "https://lid.zoocdn.com/645/430/1031251f3d1d116b81e5b0215a66ca3588530f89.jpg",
+          "https://lid.zoocdn.com/645/430/97da3576da88810b441e35af5e724e0cfd9a574c.jpg",
+          "https://lid.zoocdn.com/645/430/b92edde76055229a45217423b85e302dd924cdb9.jpg",
+          "https://lid.zoocdn.com/645/430/b5121507ec8625ed28cd8a94955a627962a0f1d6.jpg",
+          "https://lid.zoocdn.com/645/430/64fbeb273fa3e43dfcb8ed5f68b8f84b09d9b8f0.jpg",
+          "https://lid.zoocdn.com/645/430/c012bfe4a771375cd469ce48af07d83a971feffa.jpg",
+          "https://lid.zoocdn.com/645/430/ec488dd3d3c74f61b294fa25c2a08526178c767a.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 167993,
+        "name": "Southern Housing New Homes - Varcoe Corner (Shared Ownership)",
+        "phone": "020 4645 8115",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(747263).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/southern-housing-new-homes-varcoe-corner-shared-ownership-london-167993/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74140961",
+      "title": "2 bed flat for sale",
+      "address": "Varcoe Rd, London SE16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74140961/",
+      "summary": "Register your interest today. About Varcoe Corner Varcoe Corner - Now Launching! Join us at the Varcoe Corner Launch Event on Saturday 26th ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 114375,
+        "currency": "GBP",
+        "label": "£114,375",
+        "short_label": "£114k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": true
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/b9cd98c652675204c3cf5e6ad16ce2daa02f5378.jpg",
+        "main_image_caption": "Plot Image",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/bc937f0ee920ad302b5305ab4a7249211eafb95d.jpg",
+          "https://lid.zoocdn.com/645/430/218efc691f05dfa5daff9ae4ee6b33d2eca5d6e4.jpg",
+          "https://lid.zoocdn.com/645/430/744f8a083705f2f72e1b7f10d5bc3a3b8fcf9847.jpg",
+          "https://lid.zoocdn.com/645/430/83efc1ade13e998411f8cdfd2c6a878f51283111.jpg",
+          "https://lid.zoocdn.com/645/430/4f4de056a0612fbd695b8f5bbdd6a2eb8ed4f79f.jpg",
+          "https://lid.zoocdn.com/645/430/cd54283ad9b6c80b7687dc2ff2d36a731c3755da.jpg",
+          "https://lid.zoocdn.com/645/430/31d440719c35b2a5604632f96835893e3ea74908.jpg",
+          "https://lid.zoocdn.com/645/430/1031251f3d1d116b81e5b0215a66ca3588530f89.jpg",
+          "https://lid.zoocdn.com/645/430/97da3576da88810b441e35af5e724e0cfd9a574c.jpg",
+          "https://lid.zoocdn.com/645/430/0ac148b35e27c7b54122a4eaf9161123e5c64a50.jpg",
+          "https://lid.zoocdn.com/645/430/b92edde76055229a45217423b85e302dd924cdb9.jpg",
+          "https://lid.zoocdn.com/645/430/b5121507ec8625ed28cd8a94955a627962a0f1d6.jpg",
+          "https://lid.zoocdn.com/645/430/64fbeb273fa3e43dfcb8ed5f68b8f84b09d9b8f0.jpg",
+          "https://lid.zoocdn.com/645/430/c012bfe4a771375cd469ce48af07d83a971feffa.jpg",
+          "https://lid.zoocdn.com/645/430/ec488dd3d3c74f61b294fa25c2a08526178c767a.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 167993,
+        "name": "Southern Housing New Homes - Varcoe Corner (Shared Ownership)",
+        "phone": "020 4645 8115",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(747263).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/southern-housing-new-homes-varcoe-corner-shared-ownership-london-167993/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74140962",
+      "title": "2 bed flat for sale",
+      "address": "Varcoe Rd, London SE16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74140962/",
+      "summary": "Register your interest today. About Varcoe Corner Varcoe Corner - Now Launching! Join us at the Varcoe Corner Launch Event on Saturday 26th ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 116875,
+        "currency": "GBP",
+        "label": "£116,875",
+        "short_label": "£117k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/bc937f0ee920ad302b5305ab4a7249211eafb95d.jpg",
+        "main_image_caption": "Plot Image",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/744f8a083705f2f72e1b7f10d5bc3a3b8fcf9847.jpg",
+          "https://lid.zoocdn.com/645/430/cd54283ad9b6c80b7687dc2ff2d36a731c3755da.jpg",
+          "https://lid.zoocdn.com/645/430/b9cd98c652675204c3cf5e6ad16ce2daa02f5378.jpg",
+          "https://lid.zoocdn.com/645/430/83efc1ade13e998411f8cdfd2c6a878f51283111.jpg",
+          "https://lid.zoocdn.com/645/430/4f4de056a0612fbd695b8f5bbdd6a2eb8ed4f79f.jpg",
+          "https://lid.zoocdn.com/645/430/31d440719c35b2a5604632f96835893e3ea74908.jpg",
+          "https://lid.zoocdn.com/645/430/218efc691f05dfa5daff9ae4ee6b33d2eca5d6e4.jpg",
+          "https://lid.zoocdn.com/645/430/1031251f3d1d116b81e5b0215a66ca3588530f89.jpg",
+          "https://lid.zoocdn.com/645/430/0ac148b35e27c7b54122a4eaf9161123e5c64a50.jpg",
+          "https://lid.zoocdn.com/645/430/b92edde76055229a45217423b85e302dd924cdb9.jpg",
+          "https://lid.zoocdn.com/645/430/97da3576da88810b441e35af5e724e0cfd9a574c.jpg",
+          "https://lid.zoocdn.com/645/430/b5121507ec8625ed28cd8a94955a627962a0f1d6.jpg",
+          "https://lid.zoocdn.com/645/430/64fbeb273fa3e43dfcb8ed5f68b8f84b09d9b8f0.jpg",
+          "https://lid.zoocdn.com/645/430/c012bfe4a771375cd469ce48af07d83a971feffa.jpg",
+          "https://lid.zoocdn.com/645/430/ec488dd3d3c74f61b294fa25c2a08526178c767a.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 167993,
+        "name": "Southern Housing New Homes - Varcoe Corner (Shared Ownership)",
+        "phone": "020 4645 8115",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(747263).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/southern-housing-new-homes-varcoe-corner-shared-ownership-london-167993/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74140963",
+      "title": "1 bed flat for sale",
+      "address": "Varcoe Rd, London SE16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74140963/",
+      "summary": "Register your interest today. About Varcoe Corner Varcoe Corner - Now Launching! Join us at the Varcoe Corner Launch Event on Saturday 26th ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 98250,
+        "currency": "GBP",
+        "label": "£98,250",
+        "short_label": "£98.25k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-04",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/1031251f3d1d116b81e5b0215a66ca3588530f89.jpg",
+        "main_image_caption": "Plot Image",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/31d440719c35b2a5604632f96835893e3ea74908.jpg",
+          "https://lid.zoocdn.com/645/430/cd54283ad9b6c80b7687dc2ff2d36a731c3755da.jpg",
+          "https://lid.zoocdn.com/645/430/83efc1ade13e998411f8cdfd2c6a878f51283111.jpg",
+          "https://lid.zoocdn.com/645/430/0ac148b35e27c7b54122a4eaf9161123e5c64a50.jpg",
+          "https://lid.zoocdn.com/645/430/b9cd98c652675204c3cf5e6ad16ce2daa02f5378.jpg",
+          "https://lid.zoocdn.com/645/430/4f4de056a0612fbd695b8f5bbdd6a2eb8ed4f79f.jpg",
+          "https://lid.zoocdn.com/645/430/97da3576da88810b441e35af5e724e0cfd9a574c.jpg",
+          "https://lid.zoocdn.com/645/430/bc937f0ee920ad302b5305ab4a7249211eafb95d.jpg",
+          "https://lid.zoocdn.com/645/430/b92edde76055229a45217423b85e302dd924cdb9.jpg",
+          "https://lid.zoocdn.com/645/430/218efc691f05dfa5daff9ae4ee6b33d2eca5d6e4.jpg",
+          "https://lid.zoocdn.com/645/430/744f8a083705f2f72e1b7f10d5bc3a3b8fcf9847.jpg",
+          "https://lid.zoocdn.com/645/430/b5121507ec8625ed28cd8a94955a627962a0f1d6.jpg",
+          "https://lid.zoocdn.com/645/430/64fbeb273fa3e43dfcb8ed5f68b8f84b09d9b8f0.jpg",
+          "https://lid.zoocdn.com/645/430/c012bfe4a771375cd469ce48af07d83a971feffa.jpg",
+          "https://lid.zoocdn.com/645/430/ec488dd3d3c74f61b294fa25c2a08526178c767a.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 167993,
+        "name": "Southern Housing New Homes - Varcoe Corner (Shared Ownership)",
+        "phone": "020 4645 8115",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(747263).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/southern-housing-new-homes-varcoe-corner-shared-ownership-london-167993/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74140557",
+      "title": "1 bed flat for sale",
+      "address": "\"Type 1_05\" at Fielders Crescent, Barking IG11",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74140557/",
+      "summary": "Beautiful 1-bedroom apartment with open-plan kitchen/living/dining area and private balcony, one double bedroom with Juliet balcony. Plus, this ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 575,
+        "source": "text_derived"
+      },
+      "price": {
+        "amount": 302500,
+        "currency": "GBP",
+        "label": "£302,500",
+        "short_label": "£303k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-03",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Chain free"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/df9c694304cbdbee084d1f826632e7f2c3876207.jpg",
+        "main_image_caption": "Indicative Photography",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/8ec94df576968a0fd588cb56d443a66e730772fe.jpg",
+          "https://lid.zoocdn.com/645/430/fac59fe3ed856d6cd03b2cf2da0a2a3d3cf8b880.jpg",
+          "https://lid.zoocdn.com/645/430/e9190f68e8f2ddb8e63f52b8a272a3cefe218a23.jpg",
+          "https://lid.zoocdn.com/645/430/4eed1f0ee561cb3eb6c64ad2db389d2840e7841d.jpg",
+          "https://lid.zoocdn.com/645/430/43d4449aa76ed18450e4f9ba220f28cd73c7ad00.jpg",
+          "https://lid.zoocdn.com/645/430/025f5069cb4405cf38bab13659b234db9f35b086.jpg",
+          "https://lid.zoocdn.com/645/430/ad48c131916d9d593551f7ef151763f7b985c0d2.jpg",
+          "https://lid.zoocdn.com/645/430/45eee0e7b46a0eddc878f864734c5bc72e766cd1.jpg",
+          "https://lid.zoocdn.com/645/430/7349809231c236ed0f7b2f42a184b0473fdae2c2.jpg",
+          "https://lid.zoocdn.com/645/430/0fa8a65e3d3aba6a3ccefe4c077617ac6b0d3c2a.jpg",
+          "https://lid.zoocdn.com/645/430/e863a2cf27e251d446e7929a86c3d2366147c80c.jpg",
+          "https://lid.zoocdn.com/645/430/d9b407ae205b20f673e4f63354eef329bd36cd73.jpg",
+          "https://lid.zoocdn.com/645/430/acf0ebe99edb60874ea11e7663039ece993af5f0.jpg",
+          "https://lid.zoocdn.com/645/430/0bc0e17d47e844dc745981c1e37427b07ef67801.jpg",
+          "https://lid.zoocdn.com/645/430/d5cda5b8331bca14e6c15aec8702131697fe031c.jpg",
+          "https://lid.zoocdn.com/645/430/6e316fe3c810ce520cfb6477d43fb95e505c9393.jpg",
+          "https://lid.zoocdn.com/645/430/4bbe804c6cc1a71bbcb5def7b225ce9e68d1aee5.jpg",
+          "https://lid.zoocdn.com/645/430/fb40ec3390d04f88700a1a8da5f080c27e80305b.jpg",
+          "https://lid.zoocdn.com/645/430/9ebbb3545a8a4740603345b231169792a44d6de3.jpg",
+          "https://lid.zoocdn.com/645/430/d8bc47057aa30242e2fe09ad2856bf2951264c03.jpg",
+          "https://lid.zoocdn.com/645/430/2cc0cfacabea4957478f673b955d7a27b3c0b71e.jpg",
+          "https://lid.zoocdn.com/645/430/787359b74dcfe76e0251d4e629c130a09be5e70f.jpg",
+          "https://lid.zoocdn.com/645/430/9a2a52387ffac1b19f9f52c34dcf6424d305b055.jpg",
+          "https://lid.zoocdn.com/645/430/417c70c8542d82661f5726e7a206675f53a64985.jpg",
+          "https://lid.zoocdn.com/645/430/611eab0206aa5732f2f0af7fc0207e50f27b5372.jpg",
+          "https://lid.zoocdn.com/645/430/e58cb7a8f6edea3c3b205e7a9a25b47e27dd16d8.jpg",
+          "https://lid.zoocdn.com/645/430/15338d8fdc1bffcfc892afaafd1554227a7aa880.jpg",
+          "https://lid.zoocdn.com/645/430/7c334272110eb68bfd7c49001ce42701c53a32fc.jpg"
+        ],
+        "image_count": 29,
+        "floor_plan_count": 2,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 115115,
+        "name": "Bellway - Fielders Quarter",
+        "phone": "020 3641 2464",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(774238).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/bellway-fielders-quarter-barking-115115/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74137611",
+      "title": "2 bed flat for sale",
+      "address": "Heybourne Park, London NW9",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74137611/",
+      "summary": "Brand new apartment with an estimated minimum deposit from £11,950* | Colindale, NW9 | Move in this summer for incentives up to £5,000*",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 792,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 119500,
+        "currency": "GBP",
+        "label": "£119,500",
+        "short_label": "£120k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-03",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Leasehold"
+      ],
+      "highlights": [
+        {
+          "description": null,
+          "label": "Developer Incentives"
+        },
+        {
+          "description": null,
+          "label": "Shared Ownership"
+        }
+      ],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/3d1a40ac8ffe74a6ded340c03e464c9c01ce9480.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/227f65e26c3e7ecf5c9d74f75c0ba9cabac6f08b.jpg",
+          "https://lid.zoocdn.com/645/430/f727d0d206e8bde8dbb0b27780c7f147087099c0.jpg",
+          "https://lid.zoocdn.com/645/430/4131cbca572d7fd31c74766f994acc58ad7f1260.jpg",
+          "https://lid.zoocdn.com/645/430/459b310e9389134be26543644410a1698a65d285.jpg",
+          "https://lid.zoocdn.com/645/430/4fb8556cf5864fb8e6e39940f9f261c0d31c40ee.jpg",
+          "https://lid.zoocdn.com/645/430/d2b45f0d7de94ffe212ff497fb7c00bc8a4757f3.jpg",
+          "https://lid.zoocdn.com/645/430/bc794227a76539bd68b873c0e85981700ac6732e.jpg",
+          "https://lid.zoocdn.com/645/430/ab276cf8447226bef2a3b1b61b4ab983884cfbd3.jpg",
+          "https://lid.zoocdn.com/645/430/006aad52aa0a9e5b8630d9be6810fb3e372f3ee8.jpg",
+          "https://lid.zoocdn.com/645/430/17ca13e6a09fb344127e3997691820ef70e387bf.jpg"
+        ],
+        "image_count": 11,
+        "floor_plan_count": 1,
+        "video_count": 1
+      },
+      "agent": {
+        "branch_id": 154180,
+        "name": "NHG Homes - Heybourne Park",
+        "phone": "020 4517 3892",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(749912).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/nhg-homes-heybourne-park-london-154180/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74135007",
+      "title": "1 bed flat for sale",
+      "address": "Blackwall Lane, London SE10",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74135007/",
+      "summary": "Coming soon - Flat 101 at The Aura is a brand new 1 bedroom apartment positioned on the 1st floor located in the heart of Greenwich, just 15 mins ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 549,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 90000,
+        "currency": "GBP",
+        "label": "£90,000",
+        "short_label": "£90k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-03",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Leasehold"
+      ],
+      "highlights": [
+        {
+          "description": null,
+          "label": "Integrated Appliances"
+        },
+        {
+          "description": null,
+          "label": "Underfloor Heating"
+        }
+      ],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/e1b5b1fe054ab7724ad672bbbbdef8f4fd12208a.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/250172938d97bce85df60556545846d812c94c99.jpg",
+          "https://lid.zoocdn.com/645/430/b49fd261c7f790925200ec031a18ddc1fc90c854.jpg",
+          "https://lid.zoocdn.com/645/430/05ae4e46684786c4314e0f181fb087bc1205b676.jpg",
+          "https://lid.zoocdn.com/645/430/bafba2f048ae5daaf6700331b2083c671cfbaffb.jpg",
+          "https://lid.zoocdn.com/645/430/9fc398f009456bea18c33b569702d3e5494a4637.jpg",
+          "https://lid.zoocdn.com/645/430/2f04bd4d379ea2435cd72b05abba37cde42b40a5.jpg",
+          "https://lid.zoocdn.com/645/430/9e5fbcb611201f87b6d3d7d16d5bbf0c6d2185bd.jpg",
+          "https://lid.zoocdn.com/645/430/589cbf361fbea3034e73cc58bda702650a8035b0.jpg",
+          "https://lid.zoocdn.com/645/430/1ff095eadbfc3d9ec3576af029a99ff2204fbab5.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 1,
+        "video_count": 1
+      },
+      "agent": {
+        "branch_id": 169905,
+        "name": "Regenta - The Aura",
+        "phone": "020 4633 6037",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(767241).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/regenta-the-aura-london-169905/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74134903",
+      "title": "2 bed flat for sale",
+      "address": "Blackwall Lane, London SE10",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74134903/",
+      "summary": "Now available! – Flat 305 at The Aura is a brand new 2 bedroom apartment positioned on the 3rd floor located in the heart of Greenwich. Featuring ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 718,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 112500,
+        "currency": "GBP",
+        "label": "£112,500",
+        "short_label": "£113k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-03",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Leasehold"
+      ],
+      "highlights": [
+        {
+          "description": null,
+          "label": "Balcony"
+        },
+        {
+          "description": null,
+          "label": "Ideal for First Time Buyers"
+        }
+      ],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/fef38f815eb1c8318c56d034e32616d338b996b1.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/250172938d97bce85df60556545846d812c94c99.jpg",
+          "https://lid.zoocdn.com/645/430/05ae4e46684786c4314e0f181fb087bc1205b676.jpg",
+          "https://lid.zoocdn.com/645/430/b49fd261c7f790925200ec031a18ddc1fc90c854.jpg",
+          "https://lid.zoocdn.com/645/430/9fc398f009456bea18c33b569702d3e5494a4637.jpg",
+          "https://lid.zoocdn.com/645/430/bafba2f048ae5daaf6700331b2083c671cfbaffb.jpg",
+          "https://lid.zoocdn.com/645/430/f03378f78ddd99be7a752359e200fb11fc47e85b.jpg",
+          "https://lid.zoocdn.com/645/430/589cbf361fbea3034e73cc58bda702650a8035b0.jpg",
+          "https://lid.zoocdn.com/645/430/13dadef7d4e3005d6c8c75cc610c520a42893c93.jpg",
+          "https://lid.zoocdn.com/645/430/ef5ab7f3c98262ec0d132eef8f0b4cfe619a0aec.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 1,
+        "video_count": 1
+      },
+      "agent": {
+        "branch_id": 169905,
+        "name": "Regenta - The Aura",
+        "phone": "020 4633 6037",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(767241).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/regenta-the-aura-london-169905/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74134825",
+      "title": "2 bed flat for sale",
+      "address": "Blackwall Lane, London SE10",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74134825/",
+      "summary": "Now available. The Aura - Introducing a brand new 2 bedroom duplex located in the heart of Greenwich, just 15 mins walk to Maze Hill station and ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 897,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 138750,
+        "currency": "GBP",
+        "label": "£138,750",
+        "short_label": "£139k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-03",
+      "available_from": null,
+      "flag": null,
+      "tags": [
+        "New home",
+        "Shared ownership",
+        "Retirement",
+        "Leasehold"
+      ],
+      "highlights": [
+        {
+          "description": null,
+          "label": "Good Transport Links"
+        },
+        {
+          "description": null,
+          "label": "Local Amenities"
+        }
+      ],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/3c0d5189f8eca30c2a86015217b551d385adef7d.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/eb473e27a4a96ef3197a04314990f9e1ce405a7c.jpg",
+          "https://lid.zoocdn.com/645/430/250172938d97bce85df60556545846d812c94c99.jpg",
+          "https://lid.zoocdn.com/645/430/054f09defe3d9bcc99147299321aef89f7bbce15.jpg",
+          "https://lid.zoocdn.com/645/430/7a747490c3b556844ff462b0284d4162539fde54.jpg",
+          "https://lid.zoocdn.com/645/430/2f04bd4d379ea2435cd72b05abba37cde42b40a5.jpg",
+          "https://lid.zoocdn.com/645/430/b40b8796b0d836b654e1d182cb53bb10b65228df.jpg",
+          "https://lid.zoocdn.com/645/430/ebb557f9c47458f501c696176b28f2ed1113f4df.jpg",
+          "https://lid.zoocdn.com/645/430/6f3a0f2e80b410e01d0bec0f0bbb1e9fb13c4428.jpg",
+          "https://lid.zoocdn.com/645/430/095a98801080cd6b762240d255c9cdb97bc042b0.jpg",
+          "https://lid.zoocdn.com/645/430/919da2ddfbc2dd08d683103250570e3b0f9915d7.jpg"
+        ],
+        "image_count": 11,
+        "floor_plan_count": 1,
+        "video_count": 1
+      },
+      "agent": {
+        "branch_id": 169905,
+        "name": "Regenta - The Aura",
+        "phone": "020 4633 6037",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(767241).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/regenta-the-aura-london-169905/"
+      },
+      "transports": []
+    },
+    {
+      "id": "71241067",
+      "title": "4 bed detached house for sale",
+      "address": "Chislehurst Road, Petts Wood, Orpington BR5",
+      "link": "https://www.zoopla.co.uk/for-sale/details/71241067/",
+      "summary": "*Chain Free* Langford Russell are delighted to introduce this exceptional four-bedroom detached family residence, occupying a desirable position ...",
+      "property_type": "detached",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "receptions": 3,
+      "floor_area": {
+        "size_sqft": 2735,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 1550000,
+        "currency": "GBP",
+        "label": "£1,550,000",
+        "short_label": "£1.55m",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "Chain free",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/ad7ffdf10cdcd876832380f26dd11a73ccd6bd3f.jpg",
+        "main_image_caption": "External",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/ae515d644247c0d39094e5823bf2291e978f0f80.jpg",
+          "https://lid.zoocdn.com/645/430/d19844480ae8c04aa3ebee4845fa43cdd7df80ee.jpg",
+          "https://lid.zoocdn.com/645/430/225c4bed588876e3094052e6a22f669bdb3f27b7.jpg",
+          "https://lid.zoocdn.com/645/430/b29535d10ee5e63cd8dc0fd50164c3dde54f301b.jpg",
+          "https://lid.zoocdn.com/645/430/3dc52aa7874ac058695f9a72b476f837e50d0f74.jpg",
+          "https://lid.zoocdn.com/645/430/2ba5582aa190c9b87e1dec400486d9852105c671.jpg",
+          "https://lid.zoocdn.com/645/430/143684531e2ce6b80dc6a0102d8ecaf704b7e48f.jpg",
+          "https://lid.zoocdn.com/645/430/6cddf19cc6bbb5736e4bd4f173d1c998e45f1e2c.jpg",
+          "https://lid.zoocdn.com/645/430/9e4b8ff299a24063cc478eb00481a3d753716246.jpg",
+          "https://lid.zoocdn.com/645/430/880b62c2c34cd172d17c86f691eca802e19cce97.jpg",
+          "https://lid.zoocdn.com/645/430/7c736d7dd134020ce0a62d5d28974cbea2ceeeb1.jpg",
+          "https://lid.zoocdn.com/645/430/a74d5b55645e2537a3f294ebfe07d4f6ee1cc7d5.jpg",
+          "https://lid.zoocdn.com/645/430/11a35f9db99200bdc5bbfb043c1cc675ff60e375.jpg",
+          "https://lid.zoocdn.com/645/430/ddb84e2aaed9a77f3aaf572035475211b37c72b6.jpg",
+          "https://lid.zoocdn.com/645/430/f4855642ebbbbd184ef062150c7c39dc53ab31ce.jpg",
+          "https://lid.zoocdn.com/645/430/390673362c97c8940978e3eff664c68b1a2e918d.jpg",
+          "https://lid.zoocdn.com/645/430/39da4d52b0bb828bc84135cad4a65053f50808b4.jpg",
+          "https://lid.zoocdn.com/645/430/cba837c30c6cc80bb5025043c2878595578c5104.jpg",
+          "https://lid.zoocdn.com/645/430/770b6e00bc2ae3ba3f585f07f4aae84d9805cb5e.jpg",
+          "https://lid.zoocdn.com/645/430/75e730b8cbfb21a0abf26675ea08f635935aecfc.jpg",
+          "https://lid.zoocdn.com/645/430/39e1dd493b092dd93490f265767619c221309b57.jpg",
+          "https://lid.zoocdn.com/645/430/f51c2b909f478f016f3f67a99ee76494811446eb.jpg",
+          "https://lid.zoocdn.com/645/430/e3687eedf4b03d488f654dcdf4f2ecdaa1a87561.jpg",
+          "https://lid.zoocdn.com/645/430/0f28a549876973bdf0e2aed36df5b83d074ae2e5.jpg",
+          "https://lid.zoocdn.com/645/430/4e9361baa20cc03b8c744343d08396425cb25bd1.jpg",
+          "https://lid.zoocdn.com/645/430/7143e7b612065b019322a8ef497e3dbbd3ab2f34.jpg",
+          "https://lid.zoocdn.com/645/430/f614fb81307250ece9230ffbc9b71126688c54f4.jpg",
+          "https://lid.zoocdn.com/645/430/1c407955b42adab1cd93e4ebd7d6c889b9565151.jpg",
+          "https://lid.zoocdn.com/645/430/1570b73c11509230da13d6347a1f98dcaf06025a.jpg"
+        ],
+        "image_count": 30,
+        "floor_plan_count": 2,
+        "video_count": 1
+      },
+      "agent": {
+        "branch_id": 32748,
+        "name": "Langford Russell - Chislehurst",
+        "phone": "020 8166 3104",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(732787).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/langford-russell-chislehurst-chislehurst-32748/"
+      },
+      "transports": []
+    }
+  ]
+}

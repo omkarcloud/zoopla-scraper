@@ -1,0 +1,21 @@
+{
+  "query": "London",
+  "count": 10,
+  "results": [
+    {
+      "geo_identifier": "london",
+      "label": "London",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "london-fields",
+      "label": "London Fields, London",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "london-heathrow-airport",
+      "label": "London Heathrow Airport, London",
+      "sub_label": null
+    }
+  ]
+}

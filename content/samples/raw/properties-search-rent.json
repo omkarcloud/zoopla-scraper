@@ -1,0 +1,1451 @@
+{
+  "count": 41789,
+  "per_page": 25,
+  "current_page": 1,
+  "total_pages": 40,
+  "next": "https://zoopla-scraper.p.rapidapi.com/zoopla/properties/search-rent?location=London&page=2",
+  "previous": null,
+  "search": {
+    "section": "to-rent",
+    "location": "London",
+    "area_name": "London",
+    "link": "https://www.zoopla.co.uk/to-rent/property/london/"
+  },
+  "results": [
+    {
+      "id": "74158800",
+      "title": "3 bed flat to rent",
+      "address": "Porchester Terrace, Hyde Park Towers W2",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158800/",
+      "summary": "Spacious 3 bed, 2 bath flat with 2 balconies, modern kitchen, 24hr concierge, secure parking, near Hyde Park and West End. Excellent condition. ...",
+      "property_type": "flat",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 1367,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 6500,
+        "currency": "GBP",
+        "label": "£6,500 pcm",
+        "short_label": "£6500",
+        "qualifier": null,
+        "alternative_frequency_label": "£1500 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/526461b0902e66aaa75acf74dce0812232cb4477.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/e581af200c9b5774b5fd7b75cd877c0ee1cfc28f.jpg",
+          "https://lid.zoocdn.com/645/430/07de40fec387577d5225d40ffc5dda8c93fe26d2.jpg",
+          "https://lid.zoocdn.com/645/430/1ffd9fc11df1015e1c17ccbb27bf4263330fab25.jpg",
+          "https://lid.zoocdn.com/645/430/0eefc913a5f66e9cfb5aab044a4585db1bc7d43a.jpg",
+          "https://lid.zoocdn.com/645/430/b22a1a3853f780e359cbb89a60db478cce15fca9.jpg",
+          "https://lid.zoocdn.com/645/430/2764b0a34dafe577df682885bc7f84cf54a208ed.jpg",
+          "https://lid.zoocdn.com/645/430/e3b1f39673b652dc903cf7420f73db9f175c0882.jpg",
+          "https://lid.zoocdn.com/645/430/dcac77344653873e749c74a02a10a12d01746a40.jpg",
+          "https://lid.zoocdn.com/645/430/1afe6d77f9f551947ca0ad8df090dcaaeef754c3.jpg",
+          "https://lid.zoocdn.com/645/430/a6469e0caafb856618cabaa6fd7e626da4567de8.jpg",
+          "https://lid.zoocdn.com/645/430/8693bc1d0629cab153721d43da1db2da21d32bc2.jpg",
+          "https://lid.zoocdn.com/645/430/1396e009f4c38ddb3b683ec9a98456f7311e3f0f.jpg",
+          "https://lid.zoocdn.com/645/430/9b6c8bde3e79b37345956e9243c605bdebf7da6b.jpg",
+          "https://lid.zoocdn.com/645/430/3d0c0fd76cd1aa0b9252a4a28196c9518aba0582.jpg",
+          "https://lid.zoocdn.com/645/430/530f60338c2f31beb9abef4c5ba66e83f8047350.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 150557,
+        "name": "Prime Collection",
+        "phone": "020 7768 2720",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(745754).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/prime-collection-london-150557/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158730",
+      "title": "Studio to rent",
+      "address": "Lowlands Rd, Harrow HA1",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158730/",
+      "summary": "No Deposit Option | 24/7 Security | Exclusive Residents Gym | 2 mins to the Metropolitan Line | 20 mins to Baker Street | WiFi Included | Stylish ...",
+      "property_type": "studio",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 344,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 1585,
+        "currency": "GBP",
+        "label": "£1,585 pcm",
+        "short_label": "£1585",
+        "qualifier": null,
+        "alternative_frequency_label": "£365.77 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "16th Oct 2026",
+      "flag": "Just added",
+      "tags": [
+        "Student friendly"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/5c24f5ed2b5cfca56593e06cda283972e31c6eff.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/23aa666c7d43bb697e3bb6eae647b07049937f03.jpg",
+          "https://lid.zoocdn.com/645/430/e08695f5fda159c18bb70ab6b0fdf3c9c68436fc.jpg",
+          "https://lid.zoocdn.com/645/430/2dfccee8d8fef0234445b2043f33adc16136f4d3.jpg",
+          "https://lid.zoocdn.com/645/430/68015e1cdc2201dc238435400d637485cf736bac.jpg",
+          "https://lid.zoocdn.com/645/430/1a3b744e73bc24b0b5d688bbb2a2515e0d85f956.jpg",
+          "https://lid.zoocdn.com/645/430/f7b1f21be2cfeceb6dc009fd00864ded993970cd.jpg",
+          "https://lid.zoocdn.com/645/430/b83812c6a24c130b4642a47c25a0f4c47803cf0b.jpg",
+          "https://lid.zoocdn.com/645/430/a5e0fc39ca637d3cf4026d415cd1dbe62409fb80.jpg",
+          "https://lid.zoocdn.com/645/430/d758c788b0157b223a5b211f99de90b674b925de.jpg",
+          "https://lid.zoocdn.com/645/430/debaba9ac3abcb9fdee9f6d6178974345feccf0f.jpg",
+          "https://lid.zoocdn.com/645/430/e553e7a931f43b84a43c096ff571bd7ee4e212d7.jpg",
+          "https://lid.zoocdn.com/645/430/120f8f6f97aad797eff686ecabe8f7203511abd2.jpg",
+          "https://lid.zoocdn.com/645/430/239407ae882f9a4df7c74ef1ded22c794b902c50.jpg",
+          "https://lid.zoocdn.com/645/430/067f35489049ff22424e7ba8bd4c2749d0c6c1d8.jpg",
+          "https://lid.zoocdn.com/645/430/a9d6ea46f4377a9f375ef56aba555409b694111d.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 156238,
+        "name": "Dandi",
+        "phone": "020 8166 2622",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(773969).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/dandi-london-156238/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158768",
+      "title": "Room to rent",
+      "address": "Westbury Terrace, London E7",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158768/",
+      "summary": "Room in a Shared House, Westbury Terrace, E7 We are proud to offer this delightful room in a 5 bedroom, 3 bathroom shared house in a great ...",
+      "property_type": null,
+      "bedrooms": 1,
+      "bathrooms": 3,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 800,
+        "currency": "GBP",
+        "label": "£800 pcm",
+        "short_label": "£800",
+        "qualifier": null,
+        "alternative_frequency_label": "£184.62 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "immediately",
+      "flag": "Just added",
+      "tags": [
+        "House share"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/1c7553f0250e3981ffc2ddf72705febae32c0abf.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/76e7917f784f1401a5b6a79e527f116215faaaab.jpg"
+        ],
+        "image_count": 2,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 54584,
+        "name": "OpenRent",
+        "phone": "020 3542 2178",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(147555).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/openrent-london-54584/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158769",
+      "title": "2 bed flat to rent",
+      "address": "Queenstown Road, London SW8",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158769/",
+      "summary": "A two bedroom, recently redecorated ground floor flat in a Victorian terraced property is available to rent immediately. The area The property is ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 1850,
+        "currency": "GBP",
+        "label": "£1,850 pcm",
+        "short_label": "£1850",
+        "qualifier": null,
+        "alternative_frequency_label": "£426.92 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "1st Nov 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/570145d87ef8f10bbed0ca84089b2572242f0eb0.jpg",
+        "main_image_caption": "2 Bed Garden Flat Queenstown Road",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/edf7d1e57d64b6beb9fc36c9ed24ece9f5e62db3.jpg",
+          "https://lid.zoocdn.com/645/430/34aeb8fb0188c4bc0a08fe18f0254e7a1d46ca44.jpg",
+          "https://lid.zoocdn.com/645/430/054acc6008bfc83fe749da31ca8ba7dd2b7e7ba9.jpg",
+          "https://lid.zoocdn.com/645/430/968c3a040179d2423c7b5a6332283da937ba6a2d.jpg",
+          "https://lid.zoocdn.com/645/430/67341961f9e92780fd0c5c36c42f1da4d4875719.jpg",
+          "https://lid.zoocdn.com/645/430/87acbee6ecf762167039bd4d8b33b23a0e3cdf11.jpg",
+          "https://lid.zoocdn.com/645/430/a3bbffde10d8ac92d1273052c822d6538cb638e7.jpg",
+          "https://lid.zoocdn.com/645/430/def82a9e7444304c5463dfcb54e7f969a6b011e6.jpg",
+          "https://lid.zoocdn.com/645/430/af7a78873545c88543ae1592a24fe748eca2699e.jpg",
+          "https://lid.zoocdn.com/645/430/f8f1861edd468660b3c1db1e6672f51179e97c41.jpg",
+          "https://lid.zoocdn.com/645/430/392e21511516c9ed7ac8e28b127daa9a8e570e97.jpg",
+          "https://lid.zoocdn.com/645/430/9fa13d74a21aa95ae385963da2ba49996ed31fc8.jpg",
+          "https://lid.zoocdn.com/645/430/652da707ce65bb90bc8392a4db7b4a4c74f400a7.jpg"
+        ],
+        "image_count": 14,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 54584,
+        "name": "OpenRent",
+        "phone": "020 3542 2178",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(147555).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/openrent-london-54584/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158772",
+      "title": "4 bed end terrace house to rent",
+      "address": "Radnor Road, London SE15",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158772/",
+      "summary": "4 Bed End Terrace, Radnor Road, SE15 We are proud to offer this delightful 4 bedroom, 2 bathroom end terrace in a great location. Available to ...",
+      "property_type": "end_terrace",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 4000,
+        "currency": "GBP",
+        "label": "£4,000 pcm",
+        "short_label": "£4000",
+        "qualifier": null,
+        "alternative_frequency_label": "£923.08 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "immediately",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/86fdd9ed10e0cd9df3635c3e7151f406e23e1752.jpg",
+        "main_image_caption": "Upstairs Bedroom 4",
+        "gallery": [],
+        "image_count": 1,
+        "floor_plan_count": 4,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 54584,
+        "name": "OpenRent",
+        "phone": "020 3542 2178",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(147555).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/openrent-london-54584/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158774",
+      "title": "2 bed flat to rent",
+      "address": "Wellmeadow Road, London SE6",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158774/",
+      "summary": "2 Bed Flat, Wellmeadow Road, SE6 We are proud to offer this delightful 2 bedroom, 1 bathroom flat in a great location. Available to move in from ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 1950,
+        "currency": "GBP",
+        "label": "£1,950 pcm",
+        "short_label": "£1950",
+        "qualifier": null,
+        "alternative_frequency_label": "£450 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "2nd Oct 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/42b037d649bacf9aa059f06d5da4d8be1e7e503a.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/f7cf321c5c5125db6146eea689fa20df7ca7d8c0.jpg",
+          "https://lid.zoocdn.com/645/430/482d4aa8dbf22789485ca3566efe658e13ea222a.jpg",
+          "https://lid.zoocdn.com/645/430/791402e6fa48b2299ff367e563c485fe63d3a473.jpg",
+          "https://lid.zoocdn.com/645/430/6527be0bcf478a93c053523ae705919a95d80d4a.jpg",
+          "https://lid.zoocdn.com/645/430/d28715d02db89f18fc4aa4fcd0c1612dda691954.jpg",
+          "https://lid.zoocdn.com/645/430/fbd1619b6a735a2db77387226329215e2dfefccb.jpg",
+          "https://lid.zoocdn.com/645/430/30e066d1fdaca7e442004c7e9c7831958e5c4241.jpg",
+          "https://lid.zoocdn.com/645/430/402ec1927f768dfde1d2ccbd71b81bfa52b5052a.jpg",
+          "https://lid.zoocdn.com/645/430/8c10fe97b87d2d50425d0d323ace5e19c863e985.jpg",
+          "https://lid.zoocdn.com/645/430/22f722fbab395f20b81ce0bdf0437c491a2bf770.jpg"
+        ],
+        "image_count": 11,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 54584,
+        "name": "OpenRent",
+        "phone": "020 3542 2178",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(147555).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/openrent-london-54584/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158775",
+      "title": "1 bed flat to rent",
+      "address": "Matheson Road, London W14",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158775/",
+      "summary": "A stunning recently refurbished apartment, boasting period features, this lovely 1 bedroom flat offers spacious accommodation featuring solid oak ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 1850,
+        "currency": "GBP",
+        "label": "£1,850 pcm",
+        "short_label": "£1850",
+        "qualifier": null,
+        "alternative_frequency_label": "£426.92 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "4th Oct 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/920a0efeb7a881a230bedd9c9ba26c186e15a9f6.jpg",
+        "main_image_caption": "Kitchen",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/cfe146882c77c6941470f8c31bd316ba1b72fa5f.jpg",
+          "https://lid.zoocdn.com/645/430/e10b21740ad427fff579c0ef49b049f3705a208e.jpg",
+          "https://lid.zoocdn.com/645/430/61374d8f5cf7de013782e8245531df5b42716066.jpg",
+          "https://lid.zoocdn.com/645/430/599e9bce2b9f72bdb2beeee7599032a143d644bd.jpg"
+        ],
+        "image_count": 5,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 54584,
+        "name": "OpenRent",
+        "phone": "020 3542 2178",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(147555).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/openrent-london-54584/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158762",
+      "title": "2 bed flat to rent",
+      "address": "Lyonsdown Road, New Barnet, Barnet EN5",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158762/",
+      "summary": "Available 27th October, unfurnished a two double bedroom apartment with parking and communal gardens. Double glazing and gas heating. Close to New ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 635,
+        "source": "comparables_epc"
+      },
+      "price": {
+        "amount": 1900,
+        "currency": "GBP",
+        "label": "£1,900 pcm",
+        "short_label": "£1900",
+        "qualifier": null,
+        "alternative_frequency_label": "£438.46 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "26th Oct 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/6b504317b20f988f2daf8a80c83deb38cad984c5.jpg",
+        "main_image_caption": "Picture No. 05",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/45dcc5797e6f87aab5dc6b320f2cd6ba18f9869d.jpg",
+          "https://lid.zoocdn.com/645/430/e63f47770e65803ab4219e4e0c1df5e49a1ecfd3.jpg",
+          "https://lid.zoocdn.com/645/430/654523e93f41c82466f31f031fabe24ef2f0b09c.jpg",
+          "https://lid.zoocdn.com/645/430/2cbb562b56438477d65bd66e353a0eeabae7e3a2.jpg",
+          "https://lid.zoocdn.com/645/430/4ecd84924c255f2f66fc81ca25b9954d8dfaf2bc.jpg",
+          "https://lid.zoocdn.com/645/430/08f5edb35f840a8e1fbd60344ed5028f13e2aec7.jpg",
+          "https://lid.zoocdn.com/645/430/bff5d6a433e74cbab4b940e41ef1fa1fe42f3e30.jpg",
+          "https://lid.zoocdn.com/645/430/09f9966b971e8e3647804e9801315d83f1f38cb2.jpg",
+          "https://lid.zoocdn.com/645/430/7da613a3061127eab1c0c5e157e2f0260c121d7a.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 9095,
+        "name": "Hunters Residential Sales and Lettings",
+        "phone": "020 3463 0447",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(113249).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/hunters-residential-sales-and-lettings-barnet-9095/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158763",
+      "title": "1 bed flat to rent",
+      "address": "Donovan Avenue, London N10",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158763/",
+      "summary": "Stylish one-bedroom ground-floor apartment in a boutique Muswell Hill conversion. Features a bright open-plan living space, south-facing balcony ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 656,
+        "source": "comparables_epc"
+      },
+      "price": {
+        "amount": 1900,
+        "currency": "GBP",
+        "label": "£1,900 pcm",
+        "short_label": "£1900",
+        "qualifier": null,
+        "alternative_frequency_label": "£438.46 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "13th Oct 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/c60d76ac0bb6a1d4687ec9a091010921bfe082a7.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/421851bde9b69374ca2a8de43764750cff84c3ed.jpg",
+          "https://lid.zoocdn.com/645/430/917e2433a901b41148c66e400a6e0fa2c550325e.jpg",
+          "https://lid.zoocdn.com/645/430/1661905bced3dbbaf3ebfb86d939a04ce7ff13e1.jpg",
+          "https://lid.zoocdn.com/645/430/d20a86c201014799cc197074aea54882755c22c0.jpg",
+          "https://lid.zoocdn.com/645/430/87b971610cfaa4d40e4951fe4ce7fbd3493fd91c.jpg",
+          "https://lid.zoocdn.com/645/430/fc1f2e812040de9ea90b1f3ca16e76e192ec3146.jpg",
+          "https://lid.zoocdn.com/645/430/84deda14dbd53950888d92d0240bd81468e39644.jpg",
+          "https://lid.zoocdn.com/645/430/1151a9fd577a7918253495c1b694b5cada7e282b.jpg",
+          "https://lid.zoocdn.com/645/430/7f3a11fa115d63cd082baad5daeb015ce0b9bcd0.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 155520,
+        "name": "Robert Lewis Property",
+        "phone": "020 3641 1133",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(753405).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/robert-lewis-property-london-155520/"
+      },
+      "transports": []
+    },
+    {
+      "id": "72223675",
+      "title": "2 bed flat to rent",
+      "address": "Webber Street, Southwark SE1",
+      "link": "https://www.zoopla.co.uk/to-rent/details/72223675/",
+      "summary": "A two bedroom two bathroom penthouse apartment with a larger than average terrace available to rent, within a small boutique style development. ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 785,
+        "source": "comparables_epc"
+      },
+      "price": {
+        "amount": 3900,
+        "currency": "GBP",
+        "label": "£3,900 pcm",
+        "short_label": "£3900",
+        "qualifier": null,
+        "alternative_frequency_label": "£900 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/0334c24a36976022bb837e1a4581a69749dcb473.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/33bbf11a76188464e81daeda8e9e790b16ba9ba5.jpg",
+          "https://lid.zoocdn.com/645/430/c48b6d40e7f5676873c85d0fbe7c7322ff8f9f36.jpg",
+          "https://lid.zoocdn.com/645/430/a4a58aca9059e34467aecf1dfad731fa9535c322.jpg",
+          "https://lid.zoocdn.com/645/430/788a0fa51f2f9c818ebe2c7f0a4f7b6e49bd2e99.jpg",
+          "https://lid.zoocdn.com/645/430/50237f9aa1ed281e2830b9c49b6109ce13387528.jpg",
+          "https://lid.zoocdn.com/645/430/90481e3096286f40846fa937f58738d434ca5204.jpg",
+          "https://lid.zoocdn.com/645/430/921336e5247d9fbb8012b705cfe7f35e9a0c9614.jpg",
+          "https://lid.zoocdn.com/645/430/b049bd08367458d3a9e4b1f104e73f4ecc2e5b0c.jpg",
+          "https://lid.zoocdn.com/645/430/cb4a949a24bba9ea9c72cc6e792dd39178f5b05a.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 83268,
+        "name": "Dexters - London Bridge",
+        "phone": "020 7650 5101",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(727723).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/dexters-london-bridge-london-83268/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158747",
+      "title": "3 bed terraced house to rent",
+      "address": "Brewhouse Road, London SE18",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158747/",
+      "summary": "A mid-terrace house on Brewhouse Road in London, SE18, arranged with three bedrooms, one bathroom and one reception room. The property provides ...",
+      "property_type": "terraced",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 947,
+        "source": "comparables_epc"
+      },
+      "price": {
+        "amount": 2025,
+        "currency": "GBP",
+        "label": "£2,025 pcm",
+        "short_label": "£2025",
+        "qualifier": null,
+        "alternative_frequency_label": "£467.31 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "immediately",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": null,
+        "main_image_caption": null,
+        "gallery": [],
+        "image_count": 0,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 30045,
+        "name": "Home 2 U",
+        "phone": "020 3463 0144",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(42271).jpeg",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/home-2-u-london-30045/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158621",
+      "title": "Studio to rent",
+      "address": "Lowlands Rd, Harrow HA1",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158621/",
+      "summary": "No Deposit Option | 24/7 Security | Exclusive Residents Gym | 2 mins to the Metropolitan Line | 20 mins to Baker Street | WiFi Included | Stylish ...",
+      "property_type": "studio",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 237,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 1430,
+        "currency": "GBP",
+        "label": "£1,430 pcm",
+        "short_label": "£1430",
+        "qualifier": null,
+        "alternative_frequency_label": "£330 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "8th Oct 2026",
+      "flag": "Just added",
+      "tags": [
+        "Student friendly"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/7b6936c3e5affd2000a5b5238cd95b276fe78102.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/b83812c6a24c130b4642a47c25a0f4c47803cf0b.jpg",
+          "https://lid.zoocdn.com/645/430/b2e72acf59aae6d16fb0bc1b9c6b263d0b239841.jpg",
+          "https://lid.zoocdn.com/645/430/d758c788b0157b223a5b211f99de90b674b925de.jpg",
+          "https://lid.zoocdn.com/645/430/d3b5711d4d7d55f518355d91ac670a7e1a989c00.jpg",
+          "https://lid.zoocdn.com/645/430/68015e1cdc2201dc238435400d637485cf736bac.jpg",
+          "https://lid.zoocdn.com/645/430/dc7589fdb041f84256d15249751dd42276daf76a.jpg",
+          "https://lid.zoocdn.com/645/430/1a3b744e73bc24b0b5d688bbb2a2515e0d85f956.jpg",
+          "https://lid.zoocdn.com/645/430/c49153515ef9a693338b284073b5cfd1f856b585.jpg",
+          "https://lid.zoocdn.com/645/430/2b3d4d34900b2ab26daa1dbe55089f17671d9937.jpg",
+          "https://lid.zoocdn.com/645/430/09589a2f776ce40a3594171876fba98eb5bff67d.jpg",
+          "https://lid.zoocdn.com/645/430/239407ae882f9a4df7c74ef1ded22c794b902c50.jpg"
+        ],
+        "image_count": 12,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 156238,
+        "name": "Dandi",
+        "phone": "020 8166 2622",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(773969).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/dandi-london-156238/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158731",
+      "title": "1 bed flat to rent",
+      "address": "Caldon Boulevard, Wembley HA0",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158731/",
+      "summary": "Situated within the contemporary Allium House development on Caldon Boulevard, this beautifully presented one-bedroom apartment offers stylish and ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 559,
+        "source": "comparables_epc"
+      },
+      "price": {
+        "amount": 1900,
+        "currency": "GBP",
+        "label": "£1,900 pcm",
+        "short_label": "£1900",
+        "qualifier": null,
+        "alternative_frequency_label": "£438.46 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "22nd Oct 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/1b68e6e6ba33d229ed0bd0adb8212c4ab7667f92.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/17b2323de83f4a7141c84f76142b214498723f23.jpg",
+          "https://lid.zoocdn.com/645/430/32ab6785bca7b358d6969afa199f96bd94bbf751.jpg",
+          "https://lid.zoocdn.com/645/430/70e348674d225504a3ed2eedc4122692d2fd8c9d.jpg",
+          "https://lid.zoocdn.com/645/430/754089d6eab8f52160e1bfb14f0de6b000a2fc6c.jpg",
+          "https://lid.zoocdn.com/645/430/587782b4c76f50f48a042f08b9f7b109ee2ba136.jpg",
+          "https://lid.zoocdn.com/645/430/83b0fef48ef456bb47bdc984a0fde5ca9ab743b2.jpg"
+        ],
+        "image_count": 7,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 56690,
+        "name": "Celestial Globe",
+        "phone": "020 3641 4759",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(776453).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/celestial-globe-london-56690/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158668",
+      "title": "2 bed flat to rent",
+      "address": "Paul Street, London E15",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158668/",
+      "summary": "2 bedroom newly renovated flat in Stratford. Available now.",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 1850,
+        "currency": "GBP",
+        "label": "£1,850 pcm",
+        "short_label": "£1850",
+        "qualifier": null,
+        "alternative_frequency_label": "£426.92 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "immediately",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/b18bf032058924333f21fe6f90a0f64ed2db027b.jpg",
+        "main_image_caption": "Photo 10",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/769050325bac19f032cebeaea05235968ad9e185.jpg",
+          "https://lid.zoocdn.com/645/430/0c62b5675c151dcfd7f2842e5120bf9a5a871af3.jpg",
+          "https://lid.zoocdn.com/645/430/0f57e8c1e45966e46baa3b5370413b0b5d0b3a37.jpg",
+          "https://lid.zoocdn.com/645/430/652a7b820308f57a4e4b441dd7b34c0014f4e7d7.jpg",
+          "https://lid.zoocdn.com/645/430/c5eddb7542418942efb31f7eb6bb1a27b5497464.jpg",
+          "https://lid.zoocdn.com/645/430/cac5ebf335a1b304f215d2905965463909f4d48f.jpg",
+          "https://lid.zoocdn.com/645/430/f11f84be11058686456122ca35ff089bb9d43fc4.jpg",
+          "https://lid.zoocdn.com/645/430/854fc1e3a84e97bf9df37ee03421a65f4b921909.jpg",
+          "https://lid.zoocdn.com/645/430/ba6b21fc45bdda872f84f2ed06df2cb9b1bb58d2.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 155965,
+        "name": "Route Estates",
+        "phone": "020 7768 7739",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(753411).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/route-estates-enfield-155965/"
+      },
+      "transports": []
+    },
+    {
+      "id": "68713832",
+      "title": "4 bed detached house to rent",
+      "address": "Parkfield View, Potters Bar, Hertfordshire EN6",
+      "link": "https://www.zoopla.co.uk/to-rent/details/68713832/",
+      "summary": "Presenting this charming detached 4-bedroom house in a peaceful and convenient location. This unfurnished property offers a homely and comfortable ...",
+      "property_type": "detached",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "receptions": 2,
+      "floor_area": {
+        "size_sqft": 1765,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 3300,
+        "currency": "GBP",
+        "label": "£3,300 pcm",
+        "short_label": "£3300",
+        "qualifier": null,
+        "alternative_frequency_label": "£761.54 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "1st Oct 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/3425e3fd5bba5c71260ced7fc0706d48479d1aac.jpg",
+        "main_image_caption": "Picture No. 26",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/032903323611b183942a4b9ae37a21459c1d5882.jpg",
+          "https://lid.zoocdn.com/645/430/d6e5112f507aa72d57b66b9d8f833da120cbcac5.jpg",
+          "https://lid.zoocdn.com/645/430/fd6b93ebf79538c37e3cdd7f41b01466b1c98429.jpg",
+          "https://lid.zoocdn.com/645/430/5f9ec850fcf054a4940e8dc75ec66b058bceabc8.jpg",
+          "https://lid.zoocdn.com/645/430/d8443bb8165e3daab6f5946238f4fe2e444590ff.jpg",
+          "https://lid.zoocdn.com/645/430/9fc1da6d8bdbae9e40ebc984ba5e79609b9baedf.jpg",
+          "https://lid.zoocdn.com/645/430/92672bcf6b82b94cfca9b0170553dfb8249eab15.jpg",
+          "https://lid.zoocdn.com/645/430/3241b6cb768626c72150772296c264c9bea5357a.jpg",
+          "https://lid.zoocdn.com/645/430/f20859f270f59c757fa411a8fc30cb45e7ad5959.jpg",
+          "https://lid.zoocdn.com/645/430/7c56be9d9a6f155e8dbbb8b60818a0644dc046ee.jpg",
+          "https://lid.zoocdn.com/645/430/4a637a2fe72fe6492c39aec3d6bdc5885a325254.jpg",
+          "https://lid.zoocdn.com/645/430/86955da56c602c05f487b4a3eda469fa9c47f9cd.jpg",
+          "https://lid.zoocdn.com/645/430/ae932f3ebb95b774bcb3ce396aa14c87a2d1608e.jpg",
+          "https://lid.zoocdn.com/645/430/c78d26a5ad82cf255d39dd602ad793807e44da05.jpg",
+          "https://lid.zoocdn.com/645/430/171554e5def18942cc23ad364e859ff39da8f913.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 19669,
+        "name": "Statons Land and New Homes",
+        "phone": "020 8033 9505",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(269904).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/statons-land-and-new-homes-barnet-19669/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158556",
+      "title": "Studio to rent",
+      "address": "Lowlands Rd, Harrow HA1",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158556/",
+      "summary": "No Deposit Option | 24/7 Security | Exclusive Residents Gym | 2 mins to the Metropolitan Line | 20 mins to Baker Street | WiFi Included | Stylish ...",
+      "property_type": "studio",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 237,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 1430,
+        "currency": "GBP",
+        "label": "£1,430 pcm",
+        "short_label": "£1430",
+        "qualifier": null,
+        "alternative_frequency_label": "£330 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "1st Oct 2026",
+      "flag": "Just added",
+      "tags": [
+        "Student friendly"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/f85d46e439d92847588bd7b84d8c91669f03566c.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/7a2243069eefdf8c830da6a2f70d56b6cedae081.jpg",
+          "https://lid.zoocdn.com/645/430/9d5378aeb6e0096a1b8215a96056982c36cfd57e.jpg",
+          "https://lid.zoocdn.com/645/430/b83812c6a24c130b4642a47c25a0f4c47803cf0b.jpg",
+          "https://lid.zoocdn.com/645/430/8badb9c7a2541218d20bc76729839a566f604de4.jpg",
+          "https://lid.zoocdn.com/645/430/fe43687b4557e2c0593fba75300d6cec131aa07c.jpg",
+          "https://lid.zoocdn.com/645/430/23aa666c7d43bb697e3bb6eae647b07049937f03.jpg",
+          "https://lid.zoocdn.com/645/430/239407ae882f9a4df7c74ef1ded22c794b902c50.jpg",
+          "https://lid.zoocdn.com/645/430/877de30a5b4f7435fc7e9b50c1f129ece991e2d0.jpg",
+          "https://lid.zoocdn.com/645/430/68015e1cdc2201dc238435400d637485cf736bac.jpg",
+          "https://lid.zoocdn.com/645/430/1a3b744e73bc24b0b5d688bbb2a2515e0d85f956.jpg",
+          "https://lid.zoocdn.com/645/430/af7562bc4406aa6a280945ebf06af13b0287442e.jpg"
+        ],
+        "image_count": 12,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 156238,
+        "name": "Dandi",
+        "phone": "020 8166 2622",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(773969).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/dandi-london-156238/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158616",
+      "title": "Studio to rent",
+      "address": "Modern Studio Apartment – Ballards Lane, Finchley N3",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158616/",
+      "summary": "This bright and spacious studio apartment is situated on Ballards Lane in Finchley, N3, offering a fantastic blend of comfort and convenience. The ...",
+      "property_type": "studio",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 1200,
+        "currency": "GBP",
+        "label": "£1,200 pcm",
+        "short_label": "£1200",
+        "qualifier": null,
+        "alternative_frequency_label": "£276.92 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "30th Sep 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/119d27c08cc3358adcbf59268b845cc10fa343b1.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/7df2209dafde8273dbc9f066584c26e7ec0c5b87.jpg",
+          "https://lid.zoocdn.com/645/430/e6a6a16668b47700c4377923bf3cd57bdaf7cefe.jpg",
+          "https://lid.zoocdn.com/645/430/1137d8546fcdfebbe8f531b315ea7bf4a0786824.jpg",
+          "https://lid.zoocdn.com/645/430/359ecc33a798eb32d18b117c99dd2a3ac71a7d62.jpg"
+        ],
+        "image_count": 5,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 155520,
+        "name": "Robert Lewis Property",
+        "phone": "020 3641 1133",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(753405).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/robert-lewis-property-london-155520/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158610",
+      "title": "Studio to rent",
+      "address": "Finchley Road, London NW11",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158610/",
+      "summary": "A recently redecorated ground-floor studio flat offering approximately 345 sq ft / 32 sqm of well-proportioned accommodation. The property ...",
+      "property_type": "studio",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 1350,
+        "currency": "GBP",
+        "label": "£1,350 pcm",
+        "short_label": "£1350",
+        "qualifier": null,
+        "alternative_frequency_label": "£311.54 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "immediately",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/1bc1a8a15331e972d5c555f4becf089e9cb6bb30.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/9f0f7c5db41792afabb84e299b47b61c1d06a8c3.jpg",
+          "https://lid.zoocdn.com/645/430/c4cb23cadaea6fd24e528e0d6694b0b795fcf9ac.jpg",
+          "https://lid.zoocdn.com/645/430/cb25b079b1b6ca724c47c3761026ae4d372009a2.jpg",
+          "https://lid.zoocdn.com/645/430/4117553213b4f041a12a2ff788479788f7ca83ac.jpg",
+          "https://lid.zoocdn.com/645/430/f68de4eb6893b82612feb6a4989a5cd0aaa8145b.jpg",
+          "https://lid.zoocdn.com/645/430/bf12aab7cf853eab32055e32df8957a00c311058.jpg",
+          "https://lid.zoocdn.com/645/430/5adaa1706f24fe102c4add75881ee10379f5fad7.jpg",
+          "https://lid.zoocdn.com/645/430/7f6efb1e2346d105b82eb02f3bb8e2ab2d710380.jpg"
+        ],
+        "image_count": 9,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 155520,
+        "name": "Robert Lewis Property",
+        "phone": "020 3641 1133",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(753405).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/robert-lewis-property-london-155520/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158605",
+      "title": "1 bed flat to rent",
+      "address": "Dollis Road, London NW7",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158605/",
+      "summary": "This contemporary second-floor, one-bedroom apartment is available for rent starting April 1,2025. The property features a modern fitted kitchen ...",
+      "property_type": "flat",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 1400,
+        "currency": "GBP",
+        "label": "£1,400 pcm",
+        "short_label": "£1400",
+        "qualifier": null,
+        "alternative_frequency_label": "£323.08 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "11th Nov 2026",
+      "flag": "Just added",
+      "tags": [
+        "Pets allowed"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/91d2d9ea9715967d33766b0e0ea3d160c1b8fa83.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/a5cd8e326cde800b7e2f6e0a3d61e4af59e32514.jpg",
+          "https://lid.zoocdn.com/645/430/4a69b446039ce387eac05ef3d0260944d2b7bf10.jpg",
+          "https://lid.zoocdn.com/645/430/c9a0c324df8aa1f5c611c7c10632441f3c1bb8cb.jpg",
+          "https://lid.zoocdn.com/645/430/18a32987c09c78254e93f8cd161ac3f6efb2daea.jpg",
+          "https://lid.zoocdn.com/645/430/31a4cf04835da602909b95232149b69f4d01135a.jpg",
+          "https://lid.zoocdn.com/645/430/846eb3ce32baafe44e0cecb021cd18a61c7feaaf.jpg",
+          "https://lid.zoocdn.com/645/430/8894136ae689d68946f28057d7b32ecefcfca0c3.jpg",
+          "https://lid.zoocdn.com/645/430/942d321ff070e6d25e234f8794f2455d58b31f43.jpg",
+          "https://lid.zoocdn.com/645/430/07807aec75585b48be76b4d905f87711ae7e8d0f.jpg",
+          "https://lid.zoocdn.com/645/430/0edab3ca010c933f9901885e5a26d21b0fbb6884.jpg",
+          "https://lid.zoocdn.com/645/430/a8d7589c7be7141ba126ecf3cf9fff907e6febd1.jpg"
+        ],
+        "image_count": 12,
+        "floor_plan_count": 0,
+        "video_count": 1
+      },
+      "agent": {
+        "branch_id": 155520,
+        "name": "Robert Lewis Property",
+        "phone": "020 3641 1133",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(753405).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/robert-lewis-property-london-155520/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158598",
+      "title": "4 bed property to rent",
+      "address": "Fanthorpe St, London SW15",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158598/",
+      "summary": "Stunning four-bedroom home in the heart of Putney, finished to an exceptional high specification throughout. Flooded with natural light, the ...",
+      "property_type": null,
+      "bedrooms": 4,
+      "bathrooms": null,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1689,
+        "source": "comparables_epc"
+      },
+      "price": {
+        "amount": 5500,
+        "currency": "GBP",
+        "label": "£5,500 pcm",
+        "short_label": "£5500",
+        "qualifier": null,
+        "alternative_frequency_label": "£1269.23 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "10th Sep 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/fa7d9da3c18f27582252ddda6b47b27379db4192.jpg",
+        "main_image_caption": "Picture No. 06",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/075c2d1fcbbea4f71c0280c7b059468ba0770821.jpg",
+          "https://lid.zoocdn.com/645/430/2ee1494c9b45585af46fe08f5099486164dd9441.jpg",
+          "https://lid.zoocdn.com/645/430/6909bc97c3ede720dab136a208dfeff7fbd9947d.jpg",
+          "https://lid.zoocdn.com/645/430/f91c09a1c21eee31c9f4ba8951b418e7e384dd96.jpg",
+          "https://lid.zoocdn.com/645/430/d9d1469a87ed54bd836436e3e170f054544ee48b.jpg",
+          "https://lid.zoocdn.com/645/430/4d7f7e9c49ce9990684ca75fb0f7e420bd205067.jpg",
+          "https://lid.zoocdn.com/645/430/1ded0849e7289b7f74f1224cf44e44310dbc3f38.jpg",
+          "https://lid.zoocdn.com/645/430/6fcd33268094b10506c25e7e99beb91b7cf1785f.jpg",
+          "https://lid.zoocdn.com/645/430/2fe64fd8abc4585db5861040088c75f5df1fdc6e.jpg"
+        ],
+        "image_count": 10,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 116964,
+        "name": "The Chant Group",
+        "phone": "020 3641 8725",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(683286).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/the-chant-group-london-116964/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158596",
+      "title": "2 bed flat to rent",
+      "address": "Wood Crescent, London W12",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158596/",
+      "summary": "A fabulous two bedroom apartment situated on the second floor of this Crescent building, with a secure underground parking space and a private ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 890,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 4300,
+        "currency": "GBP",
+        "label": "£4,300 pcm",
+        "short_label": "£4300",
+        "qualifier": null,
+        "alternative_frequency_label": "£992.31 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "11th Nov 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/d0ad765231461d92c66474e5644bf0bdaec6abed.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/262cba845be78831f3b75f81c63e4b97ac152ba7.jpg",
+          "https://lid.zoocdn.com/645/430/7ac35c2e75419a1e8d0445bd15dc102dd6590763.jpg",
+          "https://lid.zoocdn.com/645/430/7ec522e28865c9848733eecbd0559b1b55176d46.jpg",
+          "https://lid.zoocdn.com/645/430/8135e63873da9e9eaab9bea2b449c2ae04f1d5d2.jpg",
+          "https://lid.zoocdn.com/645/430/a73cc6fcbaf84e1d576cdc47ee4d830d2f6e77e8.jpg",
+          "https://lid.zoocdn.com/645/430/49bd69e0dc1e30e34e39de11d531730432e7ab44.jpg",
+          "https://lid.zoocdn.com/645/430/be82df54b6d53e1ebe903df421a0984db2a40854.jpg",
+          "https://lid.zoocdn.com/645/430/3d4aaa636a1c295637dc70cb993712be5caa2a3e.jpg",
+          "https://lid.zoocdn.com/645/430/603442af8c584efaa4cd49b9a9225975a49ed86a.jpg",
+          "https://lid.zoocdn.com/645/430/4b1ea67ed022a9d0fdffae772cd7d8be7e777162.jpg",
+          "https://lid.zoocdn.com/645/430/a407d2832d79b6356ddf915fb510c2be6030c485.jpg",
+          "https://lid.zoocdn.com/645/430/d18a63b1978cab7ff302e87656c6dfca09c6068d.jpg",
+          "https://lid.zoocdn.com/645/430/6977fe76122740790a7b16fbdcb48f058f58c026.jpg",
+          "https://lid.zoocdn.com/645/430/46f61d2b39f95fc010bf2c0423fbec19a36a1632.jpg"
+        ],
+        "image_count": 15,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 117968,
+        "name": "DDRE Global",
+        "phone": "020 8128 0602",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(758600).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/ddre-global-london-117968/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158565",
+      "title": "2 bed flat to rent",
+      "address": "Stubbs Drive, London SE16",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158565/",
+      "summary": "2-Bedroom Flat Available from 1st October – SE16 A well-presented 2-bedroom, 1-bathroom property available from 1st October, located at 304 Stubbs ...",
+      "property_type": "flat",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 2200,
+        "currency": "GBP",
+        "label": "£2,200 pcm",
+        "short_label": "£2200",
+        "qualifier": null,
+        "alternative_frequency_label": "£507.69 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/4bf26736ce238ebde7b4a788148c6e7ecfc00579.jpg",
+        "main_image_caption": "Picture No. 01",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/6439aed650bd52255a7f04affc14aad3c33d9dbf.jpg",
+          "https://lid.zoocdn.com/645/430/e991963dbd2813ea7efae2d74d77a17441f74876.jpg",
+          "https://lid.zoocdn.com/645/430/ea31aa04e222a4696d6161b4c8edcf622437580a.jpg",
+          "https://lid.zoocdn.com/645/430/301fc2fc6ed69782e6a550436610a14c35d61497.jpg"
+        ],
+        "image_count": 5,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 116964,
+        "name": "The Chant Group",
+        "phone": "020 3641 8725",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(683286).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/the-chant-group-london-116964/"
+      },
+      "transports": []
+    },
+    {
+      "id": "71146688",
+      "title": "3 bed property to rent",
+      "address": "Milborough Crescent, Hither Green SE12",
+      "link": "https://www.zoopla.co.uk/to-rent/details/71146688/",
+      "summary": "Larger than average three bedroom + study end of terrace house presented in immaculate condition having recently undergone refurbishment to a ...",
+      "property_type": null,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 1076,
+        "source": "comparables_epc"
+      },
+      "price": {
+        "amount": 3000,
+        "currency": "GBP",
+        "label": "£3,000 pcm",
+        "short_label": "£3000",
+        "qualifier": null,
+        "alternative_frequency_label": "£692.31 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/1399238acacf476ec46d9385ee80ab425d5ad5d7.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/a30aeed1da910393ec5ce741d795254c4660a95e.jpg",
+          "https://lid.zoocdn.com/645/430/73acc0ea349f6b2e96a81d50d737009d93402743.jpg",
+          "https://lid.zoocdn.com/645/430/edce5559f3eaada328e2dd79d92475198b065f42.jpg",
+          "https://lid.zoocdn.com/645/430/248938c739e18434b542e8316fb70a0667dedc06.jpg",
+          "https://lid.zoocdn.com/645/430/2f5a21e1408de3ccc04918c1ef643cfbd6232dc3.jpg",
+          "https://lid.zoocdn.com/645/430/3181a4943b71e51f1704b008a9bcf7f4457a1180.jpg",
+          "https://lid.zoocdn.com/645/430/cd7ac8ff0d2433b4562771980a5f27fd496a0944.jpg",
+          "https://lid.zoocdn.com/645/430/85d6bc9524f4697e33cc009b0c4a6d0c31cd383c.jpg"
+        ],
+        "image_count": 9,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 9782,
+        "name": "Dexters Lee",
+        "phone": "020 8815 2211",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(743455).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/dexters-lee-london-9782/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158560",
+      "title": "3 bed flat to rent",
+      "address": "Anne Goodman House, Jubilee Street, Tower Hamlets E1",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158560/",
+      "summary": "3 Double Bedroom Apartment To Rent In Stepney Green E1. Available from 7th October",
+      "property_type": "flat",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 2800,
+        "currency": "GBP",
+        "label": "£2,800 pcm",
+        "short_label": "£2800",
+        "qualifier": null,
+        "alternative_frequency_label": "£646.15 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "7th Oct 2026",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/2bfaf9723a1c665dd885706bd82788d17336545f.jpg",
+        "main_image_caption": "Photo 8",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/fa254e376fd34c39408c40420ad11adce0727f21.jpg",
+          "https://lid.zoocdn.com/645/430/d287d223ef50d935918d4a98df9e1662c40cd29f.jpg",
+          "https://lid.zoocdn.com/645/430/8dc0182f1d6f37c1e9445dafaefaa0f2b1b4aaad.jpg",
+          "https://lid.zoocdn.com/645/430/75e5cf73a85d1480dd60130446308d880477a2a1.jpg",
+          "https://lid.zoocdn.com/645/430/ac22f21a934453efc8c1d93e79064dae931cc240.jpg",
+          "https://lid.zoocdn.com/645/430/47d53d1f0bef93fc5c2fe41410749ce61c7a2638.jpg",
+          "https://lid.zoocdn.com/645/430/1a24b86a68c10f99d693570dc6774da50a6e8614.jpg",
+          "https://lid.zoocdn.com/645/430/89ca1fe2ffedaf22c0fcd4f00aaf22495e6d384b.jpg",
+          "https://lid.zoocdn.com/645/430/28d6df2e6166fcfca6044c1f57c42f1239263978.jpg",
+          "https://lid.zoocdn.com/645/430/8f90fa1bb11718537079040bed481ffdbe21d67e.jpg",
+          "https://lid.zoocdn.com/645/430/8fb61990e11c13626043c7b3074a27f1f7d6d2e0.jpg",
+          "https://lid.zoocdn.com/645/430/b1dd6f3e2993dc168743ffcf255f866432e425df.jpg",
+          "https://lid.zoocdn.com/645/430/15263cefb25c2b889b866375f6492528e44b2648.jpg",
+          "https://lid.zoocdn.com/645/430/b188faf50b4865a2fece1cc250ed41fdd83d7b64.jpg",
+          "https://lid.zoocdn.com/645/430/bf36ddbec217f51723c83700ad9aa72e4a591cf3.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 155965,
+        "name": "Route Estates",
+        "phone": "020 7768 7739",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(753411).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/route-estates-enfield-155965/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158538",
+      "title": "5 bed end terrace house to rent",
+      "address": "Ashchurch Grove, London W12",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158538/",
+      "summary": "Exceptional five bedroom house which is finished to the highest standard throughout.",
+      "property_type": "end_terrace",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "receptions": 3,
+      "floor_area": {
+        "size_sqft": 3324,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 13000,
+        "currency": "GBP",
+        "label": "£13,000 pcm",
+        "short_label": "£13k",
+        "qualifier": null,
+        "alternative_frequency_label": "£3000 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "immediately",
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/612f009ac669f92858ddd53590a0468d3d77ab9b.jpg",
+        "main_image_caption": "Living Room",
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/e4cacd0ac28c44aff1d7d1adf4eee34f03bb2a89.jpg",
+          "https://lid.zoocdn.com/645/430/af4456ac0c453323fca8ffb12712f58bff11bc2f.jpg",
+          "https://lid.zoocdn.com/645/430/15a00773abe3f4a7cac89796db62870aab7bbeee.jpg",
+          "https://lid.zoocdn.com/645/430/b274a0573ad0d0def3e7ab5386999b26e4845562.jpg",
+          "https://lid.zoocdn.com/645/430/2b9cf2c63d0554bea4ed65889dfa76846252bd10.jpg",
+          "https://lid.zoocdn.com/645/430/ddcfa4afb952f589eb6a49f9d53eb64da7ed316f.jpg",
+          "https://lid.zoocdn.com/645/430/224bf09248e3e4b275af21b36445b5301f1b19fd.jpg",
+          "https://lid.zoocdn.com/645/430/ca3182e9af6db35a040a0209b2bc4a717fd8bf64.jpg",
+          "https://lid.zoocdn.com/645/430/4395626943bfcf9e659e0fb2f51c922085548f36.jpg",
+          "https://lid.zoocdn.com/645/430/9cf1aabcf78482a71cf0733462cc71ef4b2b2e6a.jpg",
+          "https://lid.zoocdn.com/645/430/9700000a61f63e9ecbbba5629cc273cf595f9817.jpg",
+          "https://lid.zoocdn.com/645/430/62bec69a365f52388f933a5cbdeb7c221a950a65.jpg",
+          "https://lid.zoocdn.com/645/430/0b99ff6040730c3e0e6f3adfe798b7efd2b71719.jpg",
+          "https://lid.zoocdn.com/645/430/f393d9e66a8476e89ee9b03088b468e5c54c64f9.jpg",
+          "https://lid.zoocdn.com/645/430/e1950d330fdd76dc584cbfe2584984e87fd2b706.jpg",
+          "https://lid.zoocdn.com/645/430/2ffd6b840f3699fca76b165740979c9d04e69df1.jpg",
+          "https://lid.zoocdn.com/645/430/8705fbcd4c003515a529910dd34e22c1c3ed4b2b.jpg"
+        ],
+        "image_count": 18,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 1318,
+        "name": "Savills - Chiswick Lettings",
+        "phone": "020 8022 3149",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(115061).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/savills-chiswick-lettings-london-1318/"
+      },
+      "transports": []
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "count": 41789,
+  "per_page": 25,
+  "current_page": 1,
+  "total_pages": 40,
+  "next": "https://zoopla-scraper.p.rapidapi.com/zoopla/properties/search-rent?location=London&page=2",
+  "previous": null,
+  "search": {
+    "section": "to-rent",
+    "location": "London",
+    "area_name": "London",
+    "link": "https://www.zoopla.co.uk/to-rent/property/london/"
+  },
+  "results": [
+    {
+      "id": "74158800",
+      "title": "3 bed flat to rent",
+      "address": "Porchester Terrace, Hyde Park Towers W2",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158800/",
+      "summary": "Spacious 3 bed, 2 bath flat with 2 balconies, modern kitchen, 24hr concierge, secure parking, near Hyde Park and West End. Excellent condition. ...",
+      "property_type": "flat",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "receptions": 1,
+      "floor_area": {
+        "size_sqft": 1367,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 6500,
+        "currency": "GBP",
+        "label": "£6,500 pcm",
+        "short_label": "£6500",
+        "qualifier": null,
+        "alternative_frequency_label": "£1500 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/526461b0902e66aaa75acf74dce0812232cb4477.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/e581af200c9b5774b5fd7b75cd877c0ee1cfc28f.jpg",
+          "https://lid.zoocdn.com/645/430/07de40fec387577d5225d40ffc5dda8c93fe26d2.jpg",
+          "https://lid.zoocdn.com/645/430/1ffd9fc11df1015e1c17ccbb27bf4263330fab25.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 150557,
+        "name": "Prime Collection",
+        "phone": "020 7768 2720",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(745754).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/prime-collection-london-150557/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158730",
+      "title": "Studio to rent",
+      "address": "Lowlands Rd, Harrow HA1",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158730/",
+      "summary": "No Deposit Option | 24/7 Security | Exclusive Residents Gym | 2 mins to the Metropolitan Line | 20 mins to Baker Street | WiFi Included | Stylish ...",
+      "property_type": "studio",
+      "bedrooms": null,
+      "bathrooms": 1,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 344,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 1585,
+        "currency": "GBP",
+        "label": "£1,585 pcm",
+        "short_label": "£1585",
+        "qualifier": null,
+        "alternative_frequency_label": "£365.77 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "16th Oct 2026",
+      "flag": "Just added",
+      "tags": [
+        "Student friendly"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/5c24f5ed2b5cfca56593e06cda283972e31c6eff.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/23aa666c7d43bb697e3bb6eae647b07049937f03.jpg",
+          "https://lid.zoocdn.com/645/430/e08695f5fda159c18bb70ab6b0fdf3c9c68436fc.jpg",
+          "https://lid.zoocdn.com/645/430/2dfccee8d8fef0234445b2043f33adc16136f4d3.jpg"
+        ],
+        "image_count": 16,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 156238,
+        "name": "Dandi",
+        "phone": "020 8166 2622",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(773969).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/dandi-london-156238/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74158768",
+      "title": "Room to rent",
+      "address": "Westbury Terrace, London E7",
+      "link": "https://www.zoopla.co.uk/to-rent/details/74158768/",
+      "summary": "Room in a Shared House, Westbury Terrace, E7 We are proud to offer this delightful room in a 5 bedroom, 3 bathroom shared house in a great ...",
+      "property_type": null,
+      "bedrooms": 1,
+      "bathrooms": 3,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": null,
+        "source": null
+      },
+      "price": {
+        "amount": 800,
+        "currency": "GBP",
+        "label": "£800 pcm",
+        "short_label": "£800",
+        "qualifier": null,
+        "alternative_frequency_label": "£184.62 pw",
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-07",
+      "available_from": "immediately",
+      "flag": "Just added",
+      "tags": [
+        "House share"
+      ],
+      "highlights": [],
+      "is_premium": false,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/1c7553f0250e3981ffc2ddf72705febae32c0abf.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/76e7917f784f1401a5b6a79e527f116215faaaab.jpg"
+        ],
+        "image_count": 2,
+        "floor_plan_count": 0,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 54584,
+        "name": "OpenRent",
+        "phone": "020 3542 2178",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(147555).png",
+        "link": "https://www.zoopla.co.uk/find-agents/branch/openrent-london-54584/"
+      },
+      "transports": []
+    }
+  ]
+}

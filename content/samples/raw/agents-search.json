@@ -1,0 +1,616 @@
+{
+  "count": null,
+  "per_page": 25,
+  "current_page": 1,
+  "total_pages": 100,
+  "next": "https://zoopla-scraper.p.rapidapi.com/zoopla/agents/search?location=London&page=2",
+  "previous": null,
+  "search": {
+    "location": "London",
+    "resolved_location": "/find-agents/estate-agents/london/",
+    "search_type": "estate-agents",
+    "link": "https://www.zoopla.co.uk/find-agents/estate-agents/london/"
+  },
+  "results": [
+    {
+      "branch_id": 73315,
+      "name": "/Sinclair Hammelton - Hayes",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/sinclair-hammelton-hayes-hayes-73315/",
+      "address": "57 Station Approach, Hayes, BR2 7EB",
+      "phone": "020 8115 4722",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(684007).png",
+      "is_featured": true,
+      "description": "When it comes to selling or letting your property, the staff at Sinclair Hammelton understand that no two clients are the same. Not everyone requires or indeed needs a high-profile marketing campaign, and so we listen carefully to each client's individual requirements. Some may want a wide-spread advertising campaign whilst others may prefer a more subtle approach, and this is where our extensive local knowledge comes into its own. We have many years of experience working in the Bromley Borough and over time have built up an enviable network of contacts - people who, through the years, have bought and let through us. We can often achieve a sale or let through a series of well-placed, discreet telephone calls, so that the whole transaction remains as low profile as possible. We advertise on all the major property internet portals, including Zoopla. You will find our adverts in all the main local newspapers, and we also advertise in national newspapers and quality lifestyle magazines where appropriate. Our distinctive offices, which are open seven days a week, are well located in prominent High Street locations at Bromley, Hayes and Petts Wood, which are bright, well lit window displays ensuring a continuous flow of customers. Our property details contain meticulous descriptions and floor plans, and are illustrated with professionally taken photographs to ensure each property benefits from the highest presentation standards.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 29,
+            "average_asking_price": 911517,
+            "average_weeks_on_market": 18
+          },
+          "to_rent": null
+        }
+      }
+    },
+    {
+      "branch_id": 116171,
+      "name": "100 Key Properties",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/100-key-properties-essex-116171/",
+      "address": "129a High Street, Hornchurch, Essex, RM11 1TX",
+      "phone": "020 3641 4369",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(671883).png",
+      "is_featured": true,
+      "description": "Placing client satisfaction at its heart, 100 Key Properties offers a bespoke, modern and creative service in residential sales, lettings, management and property search for the discerning homeowner, buyer, investor, landlord and tenant.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 32,
+            "average_asking_price": 438156,
+            "average_weeks_on_market": null
+          },
+          "to_rent": {
+            "available_listings": 15,
+            "average_asking_price": 385,
+            "average_weeks_on_market": null
+          }
+        },
+        "commercial": {
+          "for_sale": {
+            "available_listings": 3,
+            "average_asking_price": 110000,
+            "average_weeks_on_market": 146
+          },
+          "to_rent": null
+        }
+      }
+    },
+    {
+      "branch_id": 58113,
+      "name": "1st Avenue",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/1st-avenue-croydon-58113/",
+      "address": "5 Saffron Central Square, Croydon, CR0 2FT",
+      "phone": "020 3641 5087",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(291848).png",
+      "is_featured": true,
+      "description": "We sell and rent what we love and believe in. If you're looking to employ the services of a local agency with 15 years experience of buying, selling, renting and letting you could do worse than picking up the phone and giving us a call.It is a mandatory requirement for a Sales or Lettings Agent to be part of a redress scheme, we have membership with The Property Ombudsman (a government approved redress scheme).It is a mandatory requirement for a Lettings Agent to be part of a Client Money Protection scheme, we have membership with Propertymark (a government approved client money protection provider).",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 18,
+            "average_asking_price": 305556,
+            "average_weeks_on_market": 31
+          },
+          "to_rent": {
+            "available_listings": 33,
+            "average_asking_price": 387,
+            "average_weeks_on_market": 6
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 17441,
+      "name": "1st Avenue",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/1st-avenue-london-17441/",
+      "address": "Unit 6 128 Metcalfe Court, West Parkside, London, SE10 0EL",
+      "phone": "020 3478 2978",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(291851).png",
+      "is_featured": true,
+      "description": "We sell and rent what we love and believe in. If you're looking to employ the services of a local agency with 15 years experience of buying, selling, renting and letting you could do worse than picking up the phone and giving us a call.It is a mandatory requirement for a Sales or Lettings Agent to be part of a redress scheme, we have membership with The Property Ombudsman (a government approved redress scheme).It is a mandatory requirement for a Lettings Agent to be part of a Client Money Protection scheme, we have membership with Propertymark (a government approved client money protection provider).",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 39,
+            "average_asking_price": 416487,
+            "average_weeks_on_market": 34
+          },
+          "to_rent": {
+            "available_listings": 53,
+            "average_asking_price": 455,
+            "average_weeks_on_market": 15
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 38828,
+      "name": "1st Choice Estates Ltd",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/1st-choice-estates-ltd-london-38828/",
+      "address": "98 Coldharbour Lane, Camberwell, London, SE5 9PU",
+      "phone": "020 8128 9293",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(291751).png",
+      "is_featured": true,
+      "description": "1st Choice Estates Ltd is an independent estate agency based in the heart of Camberwell, proudly serving the local community since 2004.\r\nWe are built on core values of integrity, reliability and efficiency, offering a personal yet highly professional service to landlords, tenants, buyers and sellers. Our primary focus has always been helping local landlords secure high-quality, well-referenced tenants, while also providing expert support with property sales, valuations and ongoing management.\r\nWith extensive experience across sales, lettings and full property management, we work with both individual property owners and large portfolios, ensuring every property is managed compliantly, efficiently and with attention to detail.\r\nWe are deeply rooted in the local area and are always happy to provide free, no-obligation property advice to local residents and property owners.\r\nFor more information about our services, or to discuss your property requirements, please feel free to contact us.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 2,
+            "average_asking_price": 387500,
+            "average_weeks_on_market": 30
+          },
+          "to_rent": {
+            "available_listings": 3,
+            "average_asking_price": 507,
+            "average_weeks_on_market": 6
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 82104,
+      "name": "99Home Ltd",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/99home-ltd-wallington-82104/",
+      "address": "Sutton Business Park  Restmor Way, Wallington, SM6 7AH",
+      "phone": "020 8115 8799",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(771437).png",
+      "is_featured": true,
+      "description": "Welcome to 99Home Ltd, your online estate agents. Our vision and reason for our existence are:\r\n\r\nProvide an excellent service with low fixed fee where the property gets a nationwide explore, though the full control of deal will be in owner’s hand.\r\nEscape from heavy estate agent’s fees, and sell or let your property from £99.00 which is a legitimate cost for the service.\r\nThe World is moving towards modern methods of marketing and technology to save time and energy so as we are here to provide this platform so our client can achieve their dream.\r\n\r\nProvides a cloud-based online system which gives you more control to manage your property’s lettings, sales, management and onwards services. We're capable of selling or renting any sized property in any location within the United Kingdom. We also offer a low-cost conveyancing service, evictions, property insurance and much more. We deal with residential, lands and we are open 24/7 online, please contact us to find out how fast we can sell or let your property successfully at a very low-cost. We also cover AB10, AB11, AB12, AB15, AB16, AB21, AB22, AB23, AB24, AB25, AB31, AB32, AB39, AB42, AB43, AB45, AB51, AB52, AB53, AB54, AB55, AB56, AL1, AL10, AL2, AL3, AL4, AL5, AL6, AL7, AL8, AL, BA1, BA11, BA13, BA14, BA15, BA16, BA2, BA20, BA21, BA22, BA3, BA4, BA5, BB1, BB10, BB11, BB12, BB18, BB2, BB3, BB4, BB5, BB7, BB8, BB9, BD1, BD10, BD11, BD12, BD13, BD14, BD15, BD16, BD17, BD18, BD19, BD2, BD20, BD21, BD22, BD3, BD4, BD5, BD6, BD7, BD8, BD9, BH1, BH10, BH11, BH12, BH14, BH15, BH16, BH17, BH19, BH2, BH20, BH21, BH22, BH23, BH24, C",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 386,
+            "average_asking_price": 289474,
+            "average_weeks_on_market": 18
+          },
+          "to_rent": {
+            "available_listings": 82,
+            "average_asking_price": 410,
+            "average_weeks_on_market": 6
+          }
+        },
+        "commercial": {
+          "for_sale": {
+            "available_listings": 6,
+            "average_asking_price": 122333,
+            "average_weeks_on_market": 14
+          },
+          "to_rent": {
+            "available_listings": 70,
+            "average_asking_price": 420,
+            "average_weeks_on_market": 27
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 35793,
+      "name": "A to Z Property Services",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/a-to-z-property-services-london-35793/",
+      "address": "274 High Road, Willesden, London, NW10 2EY",
+      "phone": "020 3551 9620",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(254479).png",
+      "is_featured": true,
+      "description": "We offer a personalised service with standards that cannot be matched by other agents. Our expertise enables us to match a tenant to a property, a landlord to a tenant or an investor to a property. We specialise in residential and commercial property Sales, Lettings and Management. If you have a property letting portfolio and wish to discuss our special full management deals, please contact us. A professional independent company with experienced staff offering a quality Sales, Lettings & Management service in North West London and surrounding areas. We have been trading in the area since 1978 and have detailed knowledge of the area. If you are thinking of selling or letting your property in these areas please contact us. We will be pleased to arrange a mutually convenient time to call and give a free valuation of your property without obligation. SALES - LETTINGS - MANAGEMENT 274 High Road, Willesden, London, NW10 2EY Our fees are competitive and negotiable, remember NO SALE - NO FEE.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 9,
+            "average_asking_price": 626539,
+            "average_weeks_on_market": 53
+          },
+          "to_rent": {
+            "available_listings": 14,
+            "average_asking_price": 497,
+            "average_weeks_on_market": 6
+          }
+        },
+        "commercial": {
+          "for_sale": {
+            "available_listings": 3,
+            "average_asking_price": 770000,
+            "average_weeks_on_market": 34
+          },
+          "to_rent": {
+            "available_listings": 5,
+            "average_asking_price": 357,
+            "average_weeks_on_market": 22
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 155107,
+      "name": "Aaron Shohet Property",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/aaron-shohet-property-london-155107/",
+      "address": "82 Bittacy Hill, London, NW7 1TH",
+      "phone": "01727 294267",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(752108).png",
+      "is_featured": true,
+      "description": null,
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 18,
+            "average_asking_price": 620411,
+            "average_weeks_on_market": null
+          },
+          "to_rent": {
+            "available_listings": 17,
+            "average_asking_price": 638,
+            "average_weeks_on_market": null
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 5583,
+      "name": "Abacus Estates - West Hampstead",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/abacus-estates-west-hampstead-london-5583/",
+      "address": "303 West End Lane, West Hampstead, London, NW6 1RD",
+      "phone": "020 3463 6996",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(554300).png",
+      "is_featured": true,
+      "description": "Abacus Estates are a professional multipurpose estate agency dealing with residential sales, lettings and management, the sale and marketing of new developments and the sale and acquisition of Investment property. We have a committed team of experienced professionals with exceptional knowledge of the market in Central and North West London. Our objective is to offer our clients a tailor made package that will combine a highly personalised and professional approach. We pledge to provide our clients, who range from individuals to institutions, with total satisfaction if not more! Abacus Estates believe that a reputation is maintained by hard work and honesty. A substantial amount of our business is generated from personal recommendations; we recognise how imperative it is to uphold our high standards in order to meet our clients' satisfaction. Abacus Estates cover the areas below. We are however more than happy to take properties on throughout the world if we feel we can achieve client satisfaction. Highgate Kilburn Hampstead Belsize Park Camden St Johns Wood Marylebone Maida Vale Bayswater Queens Park Brondesbury Park West Hampstead Fortune Green",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 37,
+            "average_asking_price": 577024,
+            "average_weeks_on_market": 26
+          },
+          "to_rent": {
+            "available_listings": 34,
+            "average_asking_price": 911,
+            "average_weeks_on_market": 17
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 90,
+      "name": "Able Estates",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/able-estates-london-90/",
+      "address": "511 Abbey Road, Abbey Wood, London, SE2 9HA",
+      "phone": "020 3478 2990",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(754095).png",
+      "is_featured": true,
+      "description": "Able Estates first opened its doors in February 1997 so its fair to say we have seen all types of property markets over the years.We provide a professional and a personal service whether you are Selling or Letting your property or you are on the other side of the equation and you are looking to Buy or Rent a property.We predominantly deal with properties in South East London and North East Kent areas mainly covering Abbey Wood, Barnehurst, Belvedere, Bexley, Bexleyheath, Crayford, Dartford, Erith, Northumberland Heath, Plumstead, Slade Green, Thamesmead, Upper Belvedere, Welling and Woolwich.Able Estates understand that information, communication and trust are the fundamental elements in the relationship between Home Owners, Landlords and their agent. We are constantly striving to exceed those requirements and provide a service that cannot be beaten. We will work alongside you, taking care of you and your property from the very first market appraisal through to the completion of the Sale or the Tenant moving in.Our sales and lettings team will keep you updated throughout any transaction whether you are Selling, Letting, Buying or Renting.We would love to hear from you so why not contact us now.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 65,
+            "average_asking_price": 326490,
+            "average_weeks_on_market": 19
+          },
+          "to_rent": {
+            "available_listings": 18,
+            "average_asking_price": 355,
+            "average_weeks_on_market": 5
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 16904,
+      "name": "Abode",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/abode-woodford-green-16904/",
+      "address": "380-382 High Road  Woodford Green, IG8 0XQ",
+      "phone": "020 8115 9943",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(738646).png",
+      "is_featured": true,
+      "description": "Welcome to Abode estate agents! Abode is a leading independent company offering a wealth of property related knowledge and experience gained from many years of working within the property industry, in both local independent and corporate environments. Our aim is to create and offer a fresh approach to our business yet balanced with many of the traditional, well tried and tested practices of the Professional Estate Agent, whist maintaining a friendly and personal service at all times.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 45,
+            "average_asking_price": 761667,
+            "average_weeks_on_market": 20
+          },
+          "to_rent": {
+            "available_listings": 5,
+            "average_asking_price": 579,
+            "average_weeks_on_market": 9
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 17480,
+      "name": "Accord Sales & Lettings, Romford",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/accord-sales-and-lettings-romford-romford-17480/",
+      "address": "221 Pettits Lane North, Romford, RM1 4NU",
+      "phone": "01708 629337",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(634518).png",
+      "is_featured": true,
+      "description": "Accord is an independent family run estate agency with offices in Romford and Upminster offering property sales, residential lettings and management throughout Havering and surrounding areas. Accord are proud to provide a friendly, helpful service based on sound knowledge and experience. We understand that effective communication is vital and we are here to guide buyers, sellers, landlords and tenants alike through the complicated sales and lettings processes. To provide our clients with total peace of mind, Accord is a fully Licensed Member of the Association of Residential Letting Agents (ARLA) and the National Association of Estate Agents (NAEA) and are regulated by The Property Ombudsman Scheme.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 43,
+            "average_asking_price": 459186,
+            "average_weeks_on_market": 19
+          },
+          "to_rent": {
+            "available_listings": 9,
+            "average_asking_price": 378,
+            "average_weeks_on_market": 9
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 155440,
+      "name": "Ace Property Finder",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/ace-property-finder-london-155440/",
+      "address": "Citygate House Business Centre, Suite M5, 246-250 Romford Road, London, E7 9HZ",
+      "phone": "020 8022 1991",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(765555).png",
+      "is_featured": true,
+      "description": null,
+      "listings_statistics": {
+        "residential": {
+          "for_sale": null,
+          "to_rent": {
+            "available_listings": 1,
+            "average_asking_price": 450,
+            "average_weeks_on_market": 2
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 116766,
+      "name": "Acorn Properties",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/acorn-properties-london-116766/",
+      "address": "243 Edgware Road, London, NW9 6LU",
+      "phone": "020 8115 0308",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(683016).png",
+      "is_featured": true,
+      "description": null,
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 78,
+            "average_asking_price": 441962,
+            "average_weeks_on_market": 22
+          },
+          "to_rent": {
+            "available_listings": 6,
+            "average_asking_price": 440,
+            "average_weeks_on_market": 3
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 125266,
+      "name": "Adam Kennedy Ltd",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/adam-kennedy-ltd-london-125266/",
+      "address": "207-209 Hertford Road, London, N9 7EP",
+      "phone": "020 3544 1607",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(754956).png",
+      "is_featured": true,
+      "description": "Adam Kennedy specialise in residential sales, lettings, guaranteed rent, property management. Our services also include 24/7 property maintenance, recommended mortgage advisors, solicitors, surveyors, accountants, legal & management advice, property development and commercial.Joint owners Matthew Duce and Nawaaz Uddin have a combined experience of over 30 years in Estate Agency. With their wealth of local knowledge, expertise and friendly approach Matt & Waz and their close-knitted team are proud to support the local community with their personal touch.Adam Kennedy are ideally located to operate throughout the North London and surrounding areas. Covering the Enfield, Bush Hill Park, Edmonton, Winchmore Hill, Tottenham, Southgate, Oakwood, Cockfosters, Barnett, Potters Bar, Cheshunt, Broxbourne, Waltham Cross, Waltham Abbey & Chingford locations. Please get in touch for your free market appraisal.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 15,
+            "average_asking_price": 314332,
+            "average_weeks_on_market": 30
+          },
+          "to_rent": {
+            "available_listings": 3,
+            "average_asking_price": 411,
+            "average_weeks_on_market": 90
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 166421,
+      "name": "Addison Townsend",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/addison-townsend-east-finchley-166421/",
+      "address": "40 High Road, East Finchley, N2 9PJ",
+      "phone": "020 4645 3660",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(487440).png",
+      "is_featured": true,
+      "description": "Addison Townends Estate Agents first opened its doors in Winchmore Hill in 1994. Since opening, the Winchmore Hill branch has gone from strength to strength in both the Sales and Lettings departments. With our unrivalled marketing, knowledgeable local staff and commitment to quality, we feel that each and every client, be they vendors or purchasers, landlords or tenants, are assured of a service second to none. This attitude has led to Addison Townends becoming one of the market leading estate agents in Winchmore Hill. Addison Townends Estate Agents in Southgate was opened in 2007, on the back of the success of the Winchmore Hill branch, since opening, the Southgate branch of Addison Townends Estate Agents has grown to be a major competitor in both the Sales and Lettings markets in Southgate using the same work ethic and cultures instilled in the Winchmore Hill branch. Both branches are privately owned and Addison Townends is a family run business increasing the drive and attention to detail to succeed whilst understanding the needs and views of the local families, both directors work full time in the offices ensuring all of the Addison Townends cultures are adhered to by all employees and are always readily contactable and willing to help with any questions and queries.\r\n\r\n20 years of unrivalled knowledge of Estate Agency in Winchmore Hill and Estate Agency in Southgate\r\nFamily Run Business\r\nIn a constantly changing market it’s important to keep abreast of the latest trends. With many years experience and the latest technology we are well equipped to deal with the changes. With an extensive marketing presence you can rest assured your property will be given maximum exposure.\r\nOur friendly staff offer a fast, efficient and professional service and we are always mindful that your business is confidential.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 14,
+            "average_asking_price": 561643,
+            "average_weeks_on_market": 17
+          },
+          "to_rent": {
+            "available_listings": 1,
+            "average_asking_price": 432,
+            "average_weeks_on_market": 20
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 31699,
+      "name": "Addison Townsend",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/addison-townsend-london-31699/",
+      "address": "913 Green Lanes, London, N21 2QP",
+      "phone": "020 4645 3301",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(487435).png",
+      "is_featured": true,
+      "description": "At Addison Townsend Estate Agents we are a friendly family run estate agent that will strain every sinew to get the best price when it comes to selling or letting. We believe that our ongoing success is largely down to the culture we install in all our employees. We aim to establish individual relationships with our clients through a business built on energy, professionalism and knowledge. Our enthusiasm shows our clients that we will always strive to do the best for them and, we believe that having real local knowledge about the places we operate gives us the edge over other local Estate Agents and every client, be they vendors or purchasers, landlords or tenants, are assured a service second to none. And we think you’ll also enjoy dealing with us too! This culture has led to Addison Townsend becoming one of the leading local estate agents",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 90,
+            "average_asking_price": 653611,
+            "average_weeks_on_market": 13
+          },
+          "to_rent": {
+            "available_listings": 2,
+            "average_asking_price": 617,
+            "average_weeks_on_market": 2
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 31700,
+      "name": "Addison Townsend",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/addison-townsend-london-31700/",
+      "address": "155 High Street, London, N14 6BP",
+      "phone": "020 4638 5512",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(487437).png",
+      "is_featured": true,
+      "description": "At Addison Townends Estate Agents we are a friendly family run estate agent that will strain every sinew to get the best price when it comes to selling or letting. We believe that our ongoing success is largely down to the culture we install in all our employees. We aim to establish individual relationships with our clients through a business built on energy, professionalism and knowledge. Our enthusiasm shows our clients that we will always strive to do the best for them and, we believe that having real local knowledge about the places we operate gives us the edge over other local Estate Agents and every client, be they vendors or purchasers, landlords or tenants, are assured a service second to none. And we think you’ll also enjoy dealing with us too! This culture has led to Addison Townends becoming one of the leading local estate agents",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 88,
+            "average_asking_price": 719658,
+            "average_weeks_on_market": 14
+          },
+          "to_rent": {
+            "available_listings": 21,
+            "average_asking_price": 502,
+            "average_weeks_on_market": 4
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 35709,
+      "name": "Adilsons Properties Ltd",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/adilsons-properties-ltd-london-35709/",
+      "address": "34-36 London Road, Wembley, Middlesex, London, HA9 7EX",
+      "phone": "020 3641 4294",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(139093).png",
+      "is_featured": true,
+      "description": "Adilsons Properties Ltd was established in 1969 and is part of the Adil Group of Companies founded by Mr. Mohammed Adil.It is an independent owner operated company and since its inception has been driven by Mr. Adil's passion for property.The company is now run by Raja Jameel Adil and it is due to his continuous drive and entrepreneurial spirit that the company is expanding further with an eye for new developments and acquisitions.Adilsons Properties Ltd own and manage a substantial property portfolio combining a mix of both residential and commercial property.The portfolio is based predominantly in the North West London area and also with units throughout the rest of London and the bordering Home Counties.From Rooms to bedsits, from studio flats to one bed flats to large family homes, Adilsons Properties Ltd provide a range of accomodation for prospective tenants.We are open to development opportunities and acquisitions and all enquiries are treated with strict confidence.We are members of and are bound by their rules to protect your deposit. Mydeposits is a government-authorised tenancy deposit protection scheme. It is designed to enable landlords and letting agents in England and Wales to take and hold a deposit for the duration of the tenancy.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": null,
+          "to_rent": {
+            "available_listings": 16,
+            "average_asking_price": 320,
+            "average_weeks_on_market": 4
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 62650,
+      "name": "Aeon estates",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/aeon-estates-hounslow-62650/",
+      "address": "11 Kingsley Road, Hounslow, TW3 1PA",
+      "phone": "020 8128 9274",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(259281).png",
+      "is_featured": true,
+      "description": "The consummate professionals committed to offering a broad range of specialist residential sales and lettings services combined with our intimate and extensive knowledge of the local area. With over 30 years of expertise, Aeon Estates provides a first- class service delivering unrivaled results supported by our impartial financial advisory consultants and conveyance department. We offer free sales and lettings valuations and always see the job through from start to finish - your one-stop estate agency! Our reputation and success demonstrates that we continue to do the best for our clients and we firmly believe that our in-depth knowledge of the local area gives us the extra edge.Our interactive maps, detailed property fact-sheets along with a selection of photographs are all designed to make your search stress-free and enjoyable.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 10,
+            "average_asking_price": 393000,
+            "average_weeks_on_market": 42
+          },
+          "to_rent": {
+            "available_listings": 3,
+            "average_asking_price": 453,
+            "average_weeks_on_market": 8
+          }
+        }
+      }
+    },
+    {
+      "branch_id": 27954,
+      "name": "Alan De Maid - Beckenham",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/alan-de-maid-beckenham-beckenham-27954/",
+      "address": "234 High Street, Beckenham, BR3 1EN",
+      "phone": "020 3463 0099",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(769605).png",
+      "is_featured": true,
+      "description": "Alan de Maid has helped people sell and let their property in the Borough of Bromley and surrounding areas since 1953. With our innate knowledge and experience of the South London and Kent property markets, we have a strong network of sales and lettings branches that are strategically located to facilitate the needs of the London commuter market. At Alan de Maid we take pride to deliver exceptional customer service. We are part of the UK’s largest property services group, Countrywide PLC, whose network of over 900 lettings and estate agency branches gives you access to market leading resources. The services we offer: › Sales › Lettings › International Sales › Corporate & Relocation Services › Property Management › Mortgages and Protection › Professional Valuations & Leasehold Reform › Private Conveyancing › Land & New Homes › Sales Service & Interior Consultants Department",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 61,
+            "average_asking_price": 485492,
+            "average_weeks_on_market": 17
+          },
+          "to_rent": null
+        }
+      }
+    },
+    {
+      "branch_id": 27953,
+      "name": "Alan De Maid - Bromley",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/alan-de-maid-bromley-bromley-27953/",
+      "address": "The Old Municipal Buildings, 19 East Street, Bromley, BR1 1QE",
+      "phone": "020 3463 0089",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(769605).png",
+      "is_featured": true,
+      "description": "Alan de Maid has helped people sell and let their property in the Borough of Bromley and surrounding areas since 1953. With our innate knowledge and experience of the South London and Kent property markets, we have a strong network of sales and lettings branches that are strategically located to facilitate the needs of the London commuter market. At Alan de Maid we take pride to deliver exceptional customer service. We are part of the UK’s largest property services group, Countrywide PLC, whose network of over 900 lettings and estate agency branches gives you access to market leading resources. The services we offer: › Sales › Lettings › International Sales › Corporate & Relocation Services › Property Management › Mortgages and Protection › Professional Valuations & Leasehold Reform › Private Conveyancing › Land & New Homes › Sales Service & Interior Consultants Department",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 120,
+            "average_asking_price": 437066,
+            "average_weeks_on_market": 20
+          },
+          "to_rent": null
+        }
+      }
+    },
+    {
+      "branch_id": 27958,
+      "name": "Alan De Maid - Chislehurst",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/alan-de-maid-chislehurst-chislehurst-27958/",
+      "address": "3 High Street, Chislehurst, BR7 5AB",
+      "phone": "020 3463 0101",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(769605).png",
+      "is_featured": true,
+      "description": "Alan de Maid has helped people sell and let their property in the Borough of Bromley and surrounding areas since 1953. With our innate knowledge and experience of the South London and Kent property markets, we have a strong network of sales and lettings branches that are strategically located to facilitate the needs of the London commuter market. At Alan de Maid we take pride to deliver exceptional customer service. We are part of the UK’s largest property services group, Connells PLC, whose network of over 1200 lettings and estate agency branches gives you access to market leading resources. The services we offer: › Sales › Lettings › International Sales › Corporate & Relocation Services › Property Management › Mortgages and Protection › Professional Valuations & Leasehold Reform › Private Conveyancing › Land & New Homes › Sales Service & Interior Consultants DepartmentOur Chislehurst branch is located at the top end of the high street directly opposite the Chislehurst Common.Chislehurst is a charming suburban district in South East London. London buyers are keen to purchase property in the area, due to its excellent commuter links. Rail services take around 30 minutes to London Charing Cross.Chislehurst has a unique village feel and is especially attractive to families, and a selection of both independent and state schools. The area offers commons, ponds, a cricket grounda golf course Scadbury ParkChislehurst has a range of properties, from Victorian homes to new builds, with many of the apartments offering a share of freehold. Many of the residents in Chislehurst have been in the area for a long time, although it's also popular with London buyers searching for a village feel. Wilderness Road and Camden Park Road, with their gated properties and proximity to the golf course, are desirable streets for those wanting properties with more privacy. The historic Royal Parade area is also a popular destination with residents, and is considered ‘Old Chislehurst'.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 73,
+            "average_asking_price": 795808,
+            "average_weeks_on_market": 21
+          },
+          "to_rent": null
+        }
+      }
+    },
+    {
+      "branch_id": 33711,
+      "name": "Alan De Maid - Locksbottom",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/alan-de-maid-locksbottom-orpington-33711/",
+      "address": "9 Princess Parade, Crofton Road, Orpington, BR6 8NP",
+      "phone": "01689 867057",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(769605).png",
+      "is_featured": true,
+      "description": "Alan de Maid has helped people sell and let their property in the Borough of Bromley and surrounding areas since 1953. With our innate knowledge and experience of the South London and Kent property markets, we have a strong network of sales and lettings branches that are strategically located to facilitate the needs of the London commuter market.\r\nAt Alan de Maid we take pride to deliver exceptional customer service. We are part of the UK’s largest property services group, Countrywide PLC, whose network of over 900 lettings and estate agency branches gives you access to market leading resources.\r\nThe services we offer:\r\n› Sales\r\n› Lettings\r\n› International Sales\r\n› Corporate & Relocation Services\r\n› Property Management\r\n› Mortgages and Protection\r\n› Professional Valuations & Leasehold Reform\r\n› Private Conveyancing\r\n› Land & New Homes\r\n› Sales Service & Interior Consultants Department",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 104,
+            "average_asking_price": 1292139,
+            "average_weeks_on_market": 29
+          },
+          "to_rent": null
+        }
+      }
+    },
+    {
+      "branch_id": 27957,
+      "name": "Alan De Maid - Orpington",
+      "link": "https://www.zoopla.co.uk/find-agents/branch/alan-de-maid-orpington-orpington-27957/",
+      "address": "182 High Street, Orpington, BR6 0JW",
+      "phone": "01689 768099",
+      "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(769605).png",
+      "is_featured": true,
+      "description": "We pride ourselves on delivering the highest quality of personal service for all our customers. Covering the entire property spectrum from town centre apartments to large country properties with acreage, you can rest assured that you will be in safe and trusted hands when choosing us as your dedicated sales or letting agent. Whether you are thinking of buying, selling, letting or renting, we have all the services you need under one roof.Our busy Orpington branch is located in the centre of the high street almost opposite the entrance to the Walnuts Shopping Centre. Orpington is a busy and vibrant suburban town located in the London Borough of Bromley in South East London, and has evolved from a small village to become a thriving cosmopolitan area. The area has recently benefitted from huge investment, with a new cinema, hotel and apartments all contributing to a healthy market upturn and bringing new families to the area.",
+      "listings_statistics": {
+        "residential": {
+          "for_sale": {
+            "available_listings": 120,
+            "average_asking_price": 608029,
+            "average_weeks_on_market": null
+          },
+          "to_rent": null
+        }
+      }
+    }
+  ]
+}

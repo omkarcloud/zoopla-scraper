@@ -1,0 +1,178 @@
+{
+  "count": 50000,
+  "per_page": 25,
+  "current_page": 1,
+  "total_pages": 40,
+  "next": "https://zoopla-scraper.p.rapidapi.com/zoopla/properties/search-sale?location=London&page=2",
+  "previous": null,
+  "search": {
+    "section": "for-sale",
+    "location": "London",
+    "area_name": "London",
+    "link": "https://www.zoopla.co.uk/for-sale/property/london/"
+  },
+  "results": [
+    {
+      "id": "74153976",
+      "title": "4 bed semi-detached house for sale",
+      "address": "Woodmansterne Lane, Wallington SM6",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74153976/",
+      "summary": "New Build 4 Bedroom Houses for Sale in Wallington, SM6 Coming soon: An exclusive collection of four new build 4-bedroom houses for sale in ...",
+      "property_type": "semi_detached",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1359,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 750000,
+        "currency": "GBP",
+        "label": "£750,000",
+        "short_label": "£750k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-05",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/6a8c387bd5caf481e06cb261a8b4b44e820e9c27.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/040b8def900a3c91bc5e74240e6b57d5838957cd.jpg",
+          "https://lid.zoocdn.com/645/430/64447b7e34f1142f2ec9451702d10a620d1d241c.jpg",
+          "https://lid.zoocdn.com/645/430/0d01b10fb5b8839290054fd9a87cee29db6e208e.jpg"
+        ],
+        "image_count": 12,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 166891,
+        "name": "Dion Homes - Wallington",
+        "phone": "020 4645 3665",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(741307).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/dion-homes-wallington-london-166891/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74153966",
+      "title": "4 bed semi-detached house for sale",
+      "address": "Woodmansterne Lane, Wallington SM6",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74153966/",
+      "summary": "New Build 4 Bedroom Houses for Sale in Wallington, SM6 Coming soon: An exclusive collection of four new build 4-bedroom houses for sale in ...",
+      "property_type": "semi_detached",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1359,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 750000,
+        "currency": "GBP",
+        "label": "£750,000",
+        "short_label": "£750k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-05",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/6a8c387bd5caf481e06cb261a8b4b44e820e9c27.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/60b11adbf56371f94c30048ba7cd9305bd9f9c96.jpg",
+          "https://lid.zoocdn.com/645/430/fd5e8d186d924368a9ed906cab85448febb0e3e7.jpg",
+          "https://lid.zoocdn.com/645/430/f060c1aa48b368e73f2aebc35857c5d6c297cb12.jpg"
+        ],
+        "image_count": 11,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 166891,
+        "name": "Dion Homes - Wallington",
+        "phone": "020 4645 3665",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(741307).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/dion-homes-wallington-london-166891/"
+      },
+      "transports": []
+    },
+    {
+      "id": "74153943",
+      "title": "4 bed terraced house for sale",
+      "address": "Rowan Road, Streatham SW16",
+      "link": "https://www.zoopla.co.uk/new-homes/details/74153943/",
+      "summary": "Discover Byards Croft, Streatham - Limited-time incentive available - choose either a deposit contribution or stamp duty contribution. Get in ...",
+      "property_type": "terraced",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "receptions": null,
+      "floor_area": {
+        "size_sqft": 1305,
+        "source": "structured_data"
+      },
+      "price": {
+        "amount": 750000,
+        "currency": "GBP",
+        "label": "£750,000",
+        "short_label": "£750k",
+        "qualifier": null,
+        "alternative_frequency_label": null,
+        "is_price_drop": null
+      },
+      "listed_on": "2026-09-05",
+      "available_from": null,
+      "flag": "Just added",
+      "tags": [
+        "New home",
+        "Freehold"
+      ],
+      "highlights": [],
+      "is_premium": true,
+      "is_under_offer": false,
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/38698c44d33180629781ca8cd69bbd1d5afa10d6.jpg",
+        "main_image_caption": null,
+        "gallery": [
+          "https://lid.zoocdn.com/645/430/f0001fb04528048194ea34da711309ab5acc61dd.png",
+          "https://lid.zoocdn.com/645/430/6a8c387bd5caf481e06cb261a8b4b44e820e9c27.jpg",
+          "https://lid.zoocdn.com/645/430/fd5e8d186d924368a9ed906cab85448febb0e3e7.jpg"
+        ],
+        "image_count": 15,
+        "floor_plan_count": 1,
+        "video_count": 0
+      },
+      "agent": {
+        "branch_id": 164833,
+        "name": "Dion Bycroft",
+        "phone": "020 8128 9554",
+        "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(741307).png",
+        "link": "https://www.zoopla.co.uk/new-homes/developers/branch/dion-bycroft-london-164833/"
+      },
+      "transports": []
+    }
+  ]
+}

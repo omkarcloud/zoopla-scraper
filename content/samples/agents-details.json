@@ -1,0 +1,35 @@
+{
+  "branch_id": 73315,
+  "name": "/Sinclair Hammelton - Hayes",
+  "link": "https://www.zoopla.co.uk/find-agents/branch/sinclair-hammelton-hayes-hayes-73315/",
+  "address": "57 Station Approach, Hayes",
+  "postcode": "BR2 7EB",
+  "outcode": "BR2",
+  "latitude": 51.376397,
+  "longitude": 0.011508,
+  "phone": "020 8115 4722",
+  "logo": "https://st.zoocdn.com/zoopla_static_agent_logo_(684007).png",
+  "description": "When it comes to selling or letting your property, the staff at Sinclair Hammelton understand that no two clients are the same. Not everyone requires or indeed needs a high-profile marketing campaign, and so we listen carefully to each client's individual requirements. Some may want a wide-spread ad...",
+  "social_links": null,
+  "opening_times": null,
+  "memberships": [
+    {
+      "name": "The Property Ombudsman",
+      "link": "https://www.zoopla.co.uk/tips/agent-affiliation-tpo/"
+    }
+  ],
+  "listings_statistics": {
+    "residential": {
+      "for_sale": {
+        "available_listings": 29,
+        "average_asking_price": 911517,
+        "average_weeks_on_market": 18
+      },
+      "to_rent": null
+    },
+    "commercial": {
+      "for_sale": null,
+      "to_rent": null
+    }
+  }
+}

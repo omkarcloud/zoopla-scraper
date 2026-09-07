@@ -1,14 +1,14 @@
 # Zoopla Scraper
 
-Zoopla Scraper gets you 🎯 accurate, 🔍 detailed Zoopla data as clean JSON in **Real-Time**.
+Zoopla Scraper gets you 🎯 accurate, 🔍 detailed Zoopla data as clean JSON — in real time.
 
-No selectors, no proxies, no data cleaning. Just the data.
+Zoopla uses Cloudflare bot protection to stop you from getting its data.
 
-[**Try it now in the playground**](https://www.omkar.cloud/tools/zoopla-scraper/playground) - See the data quality for yourself in one click, **No sign-up required**.
+Zoopla Scraper beats it — no selectors, no proxies, no data cleaning. Just the data, so you can successfully complete your project.
 
-**Build on it free:** 1,000 calls every month, no credit card ❤️
+**1,000 free calls every month, no credit card.** Use them to your heart's content ❤️
 
-[![Zoopla Scraper API playground — run a live request in your browser, free, no sign-up](https://raw.githubusercontent.com/omkarcloud/zoopla-scraper/master/playground.png)](https://www.omkar.cloud/tools/zoopla-scraper/playground)
+This is an excellent API — we're Rated Excellent, [4.7 based on 30 reviews on Trustpilot](https://www.trustpilot.com/review/omkar.cloud).
 
 ## What can I get
 
@@ -100,35 +100,45 @@ Once you're happy with the data, start with the free plan for 1,000 free calls e
 
 11 endpoints cover everything you need.
 
-| Endpoint | Path | Returns |
-|---|---|---|
-| Location Autocomplete | `/locations/auto-complete` | Any UK place name → the geo slug search and house prices accept |
-| Search For Sale / To Rent / New Homes | `/properties/search-sale`, `/properties/search-rent`, `/properties/search-new-homes` | 25 listings per page; filter by price, beds, type; sortable |
-| Property Details | `/properties/details` | Everything about one listing in a single call |
-| Agent Contact | `/properties/agent-contact` | Agent name, phone numbers and branch link for a listing |
-| Sold House Prices | `/house-prices/search` | HM Land Registry sold records for any UK area, 25 per page |
-| Property Value Estimate | `/house-prices/estimate` | Sale and rent estimate with range and confidence for any address |
-| Search Estate Agents | `/agents/search` | Branches in a location with phone, logo and listing stats |
-| Estate Agent Details | `/agents/details` | Full branch profile with memberships and statistics |
-| Estate Agent Listings | `/agents/listings` | A branch's live listings, for sale or to rent |
+- **Location Autocomplete** (`/locations/auto-complete`) — any UK place name → the geo slug search and house prices accept
+- **Search For Sale / To Rent / New Homes** (`/properties/search-sale`, `/properties/search-rent`, `/properties/search-new-homes`) — 25 listings per page; filter by price, beds, type; sortable
+- **Property Details** (`/properties/details`) — everything about one listing in a single call
+- **Agent Contact** (`/properties/agent-contact`) — agent name, phone numbers and branch link for a listing
+- **Sold House Prices** (`/house-prices/search`) — HM Land Registry sold records for any UK area, 25 per page
+- **Property Value Estimate** (`/house-prices/estimate`) — sale and rent estimate with range and confidence for any address
+- **Search Estate Agents** (`/agents/search`) — branches in a location with phone, logo and listing stats
+- **Estate Agent Details** (`/agents/details`) — full branch profile with memberships and statistics
+- **Estate Agent Listings** (`/agents/listings`) — a branch's live listings, for sale or to rent
 
 ## Pricing
 
 High value, Low price.
 
-| Plan | Price | Calls / month | Per 1,000 |
-|---|---|---|---|
-| **Basic** | **Free** | **1,000** — the most generous free plan | $0 |
-| **Pro** | $16/mo | 20,000 | $0.80 |
-| **Ultra** | $48/mo | 100,000 | $0.48 |
-| **Mega** | $148/mo | 400,000 | $0.37 |
+- **Basic — Free**: **1,000 calls/month** — the most generous free plan
+- **Pro — $16/mo**: 20,000 calls/month ($0.80 per 1,000)
+- **Ultra — $48/mo**: 100,000 calls/month ($0.48 per 1,000)
+- **Mega — $148/mo**: 400,000 calls/month ($0.37 per 1,000)
 
-Need a bigger plan? Ask on [WhatsApp](https://api.whatsapp.com/send?phone=918178804274&text=I%20need%20a%20custom%20plan%20for%20the%20Zoopla%20Scraper%20API.) or [Email](mailto:happy.to.help@omkar.cloud?subject=Custom%20plan%20for%20Zoopla%20Scraper%20API&body=I%20need%20a%20custom%20plan%20for%20the%20Zoopla%20Scraper%20API.).
-
-- [**90 Day 2 Click Refund Guarantee**](https://www.omkar.cloud/refund-process)
-- This is an excellent API made by Omkar Cloud, which is Rated Excellent — [4.7 based on 30 reviews on Trustpilot](https://www.trustpilot.com/review/omkar.cloud).
+Need the full Zoopla dataset or a bigger plan? Ask on [WhatsApp](https://api.whatsapp.com/send?phone=918178804274&text=I%20need%20a%20custom%20plan%20for%20the%20Zoopla%20Scraper%20API.) or [Email](mailto:happy.to.help@omkar.cloud?subject=Custom%20plan%20for%20Zoopla%20Scraper%20API&body=I%20need%20a%20custom%20plan%20for%20the%20Zoopla%20Scraper%20API.).
 
 👉 [Start with Free Plan](https://www.omkar.cloud/auth/sign-up?redirect=/tools/zoopla-scraper/playground) — 1,000 free calls/month
+
+## 💰 2-Click Refund Guarantee
+
+Your happiness is our happiness. We will gladly issue a refund if you are not happy with the API. Here's how:
+
+1. Go to [Transactions Page](https://www.omkar.cloud/billing/transaction-history)
+![Transactions Page](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/transactions-page.png)
+
+2. Click "Request Refund"
+![Request Refund Button](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/request-refund-button.png)
+
+3. Confirm by clicking **Request Refund** again.
+![Confirm Refund Request](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/confirm-refund-request.png)
+
+✅ That's it! You'll receive a confirmation email from PayPal, and your money will be returned to your original payment method within **1–2 business days**.
+
+No emails. No explanations. A simple refund in 2 clicks. As it should be.
 
 ## 💬 Have Questions? We Have Answers.
 

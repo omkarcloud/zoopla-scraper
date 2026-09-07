@@ -1,0 +1,75 @@
+{
+  "branch_id": 73315,
+  "section": "for-sale",
+  "link": "https://www.zoopla.co.uk/find-agents/branch/sinclair-hammelton-hayes-hayes-73315/",
+  "total_results": 29,
+  "count": 10,
+  "results": [
+    {
+      "id": "74070066",
+      "title": "3 bed detached bungalow for sale",
+      "link": "https://www.zoopla.co.uk/for-sale/details/74070066/",
+      "summary": "Guide price: £775,000- £800,000. Situated on the sought-after Lakes Road in Keston, we are delighted to offer to the market this modern ...",
+      "price": {
+        "amount": 775000,
+        "currency": "GBP",
+        "label": "£775,000",
+        "qualifier": "Guide price"
+      },
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "living_rooms": 2,
+      "listed_on": "2026-08-26",
+      "is_under_offer": false,
+      "phone": "020 8115 4722",
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/f96f9d75ea498676a3bd009eb21412f47ecca21c.jpg",
+        "main_image_caption": "1487392 (3).Jpg"
+      }
+    },
+    {
+      "id": "73973570",
+      "title": "6 bed detached house for sale",
+      "link": "https://www.zoopla.co.uk/for-sale/details/73973570/",
+      "summary": "Set behind electric gates on a substantial plot, Tall Trees is an exceptional and highly versatile six-bedroom detached residence with an ...",
+      "price": {
+        "amount": 1750000,
+        "currency": "GBP",
+        "label": "£1,750,000",
+        "qualifier": null
+      },
+      "bedrooms": 6,
+      "bathrooms": 4,
+      "living_rooms": 4,
+      "listed_on": "2026-08-13",
+      "is_under_offer": false,
+      "phone": "020 8115 4722",
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/15a38c71e654265426dbd5b4475d4ffc7b571acf.jpg",
+        "main_image_caption": "Front (Exterior)"
+      }
+    },
+    {
+      "id": "73956014",
+      "title": "4 bed semi-detached house for sale",
+      "link": "https://www.zoopla.co.uk/for-sale/details/73956014/",
+      "summary": "***Guide Price £700,000 - £725,000*** Sinclair Hammelton are pleased to offer to the market this modern four-bedroom semi-detached house, ...",
+      "price": {
+        "amount": 700000,
+        "currency": "GBP",
+        "label": "£700,000",
+        "qualifier": "Guide price"
+      },
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "living_rooms": 1,
+      "listed_on": "2026-08-11",
+      "is_under_offer": false,
+      "phone": "020 8115 4722",
+      "media": {
+        "main_image": "https://lid.zoocdn.com/645/430/199441ee5b2683c1de783b0b091eece7308136e4.jpg",
+        "main_image_caption": "1496657-1-6A71Eae921A5c.Jpg"
+      }
+    }
+  ]
+}

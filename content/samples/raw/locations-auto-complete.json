@@ -1,0 +1,56 @@
+{
+  "query": "London",
+  "count": 10,
+  "results": [
+    {
+      "geo_identifier": "london",
+      "label": "London",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "london-fields",
+      "label": "London Fields, London",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "london-heathrow-airport",
+      "label": "London Heathrow Airport, London",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "derry/londonderry",
+      "label": "Londonderry, Derry",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "london-colney",
+      "label": "London Colney, Hertfordshire",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "northern-ireland/londonderry",
+      "label": "Londonderry",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "london-stansted-airport",
+      "label": "London Stansted Airport, Essex",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "london-luton-airport",
+      "label": "London Luton Airport, Bedfordshire",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "schools/primary/london-colney-primary-school",
+      "label": "London Colney Primary School, Hertfordshire, AL2",
+      "sub_label": null
+    },
+    {
+      "geo_identifier": "london-apprentice",
+      "label": "London Apprentice, Cornwall",
+      "sub_label": null
+    }
+  ]
+}
